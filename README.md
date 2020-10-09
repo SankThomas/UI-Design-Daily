@@ -17,3 +17,7 @@ Also, the homepage for the website is a bit trash, but as components begin to fi
 ### Updates
 
 Check back again for regular updates because I will try to do a component a day for a month or two. The first one I've done today, 9th October 2020, and it is called 'Modal'. I've added this in for accountability.
+
+### Links to the UI Components
+
+1. Modal [https://uidesigndaily.com/posts/sketch-subscribe-modal-pop-up-newsletter-day-1193]
