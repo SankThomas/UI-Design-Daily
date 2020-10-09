@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #eef3f9;
+  height: 100vh;
+  overflow: auto;
+}
+
+.open-form {
+  text-align: center;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  width: 400px;
+  text-align: center;
+  border-radius: 6px;
+  box-shadow: 0 10px 10px rgba(32, 34, 94, 0.1);
+}
+
+.times {
+  position: absolute;
+  z-index: 10;
+  right: 0;
+  font-size: 24px;
+  color: #fff;
+  background: #2f316e;
+  padding: 0 9px;
+  margin: 10px;
+  border: 2px solid #2f316e;
+  border-radius: 50%;
+}
+
+.times:hover {
+  cursor: pointer;
+  background: #fff;
+  color: #20225e;
+  border: 2px solid #2f316e;
+}
+
+.header {
+  position: relative;
+  background: #20225e;
+  padding: 50px 10px 20px;
+  border-radius: 6px 6px 0 0;
+}
+
+.header h1 {
+  font-size: 18px;
+  color: #fff;
+}
+
+.form {
+  width: 250px;
+  margin: auto;
+  padding: 30px 0 50px;
+  text-align: left;
+}
+
+label {
+  display: block;
+  font-weight: 600;
+  font-size: 12px;
+  color: #20225e;
+  margin-top: 30px;
+}
+
+input {
+  font-family: inherit;
+  font-size: 12px;
+  color: #20225e;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #eef3f9;
+  padding-bottom: 10px;
+  width: 250px;
+  margin-top: 10px;
+}
+
+input::placeholder {
+  color: #20225e;
+}
+
+select {
+  font-family: inherit;
+  font-size: 13px;
+  color: #20225e;
+  display: block;
+  background: transparent;
+  margin: 10px 0 10px -5px;
+  padding-bottom: 10px;
+  width: 250px;
+  outline: none;
+  border: none;
+  border-bottom: 2px solid #eef3f9;
+}
+
+select:hover {
+  cursor: pointer;
+}
+
+.btn {
+  text-align: center;
+}
+
+.submit {
+  background: #20225e;
+  color: #fff;
+  font-family: inherit;
+  font-size: 12px;
+  border: none;
+  outline: none;
+  padding: 13px;
+  width: 150px;
+  margin: 30px auto 0;
+  border: 2px solid #20225e;
+  border-radius: 30px;
+  box-shadow: 0 5px 10px rgba(32, 34, 94, 0.4);
+  transition: 0.4s;
+}
+
+.submit:hover {
+  cursor: pointer;
+  background: transparent;
+  box-shadow: none;
+  border: 2px solid #20225e;
+  color: #20225e;
+}
+
+@media (max-width: 400px) {
+  .container {
+    width: 300px;
+  }
+}

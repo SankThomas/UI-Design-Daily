@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Thomas Sankara" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Submit a tool</title>
+  </head>
+  <body>
+    <div class="open-form">
+      <button class="submit open-btn">Open Form</button>
+    </div>
+    <div class="container">
+      <div class="times">&times;</div>
+      <div class="header">
+        <h1>Submit a tool</h1>
+      </div>
+
+      <form id="form" class="form">
+        <label for="name">Name</label>
+        <input type="text" placeholder="UI Design Daily" />
+        <label for="link">Link to resource</label>
+        <input
+          type="url"
+          class="resource"
+          placeholder="https://www.uidesigndaily.com/"
+        />
+        <label for="category">Category</label>
+        <select name="category" id="select" class="select">
+          <option>Select a category</option>
+          <option>User Interface Design</option>
+          <option>UI Components</option>
+        </select>
+        <div class="btn">
+          <button type="submit" class="submit" id="submit">Submit</button>
+        </div>
+      </form>
+    </div>
+    <script src="./main.js"></script>
+  </body>
+</html>
