@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="This is an example of a subscribe modal. The design inspiration is from UI Design Daily"
+    />
+    <meta
+      name="keywords"
+      content="UI Design Daily, Subscribe, Modal, Subscription, Subscribe Modal"
+    />
+    <meta name="author" content="Thomas Sankara" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Subscribe Modal | UI Design Daily</title>
+  </head>
+  <body>
+    <div class="sub-btn">
+      <button class="btn btn-main" id="sub">Subscribe Now</button>
+    </div>
+    <div class="bg"></div>
+    <div class="container" id="modal">
+      <div class="times" id="times">&times;</div>
+      <div class="container-inner">
+        <!-- Showcase image -->
+        <div class="showcase-img">
+          <img src="./modal-img.jpg" alt="modal subscription image" />
+        </div>
+
+        <div class="right-modal">
+          <h1>Ideas and UI Components in your inbox</h1>
+          <p>
+            Sign up to receive ideas, free components and free resources plus
+            15% on all of your pro UI Kits.
+          </p>
+
+          <form class="form" id="form">
+            <input type="email" placeholder="Enter email" required />
+            <button type="submit" id="submit-btn" class="btn submit-btn">
+              Subscribe
+            </button>
+            <small>No spams included</small>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
