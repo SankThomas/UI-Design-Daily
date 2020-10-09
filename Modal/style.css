@@ -60,6 +60,7 @@ body {
 }
 
 .container {
+  display: none;
   position: relative;
   max-width: 700px;
   margin: 20vh auto 0;
