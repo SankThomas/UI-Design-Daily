@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1337px" height="898px" viewBox="0 0 1337 898" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>header-ui-image-responsive</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M53.3705797,168 L44.8185343,176.403849 C43.2622849,177.933131 40.767585,177.933131 39.2113357,176.403849 L30.6592902,168 L4,168 C1.790861,168 2.705415e-16,166.209139 0,164 L-4.4408921e-16,4 C-7.1463071e-16,1.790861 1.790861,1.4616667e-14 4,1.42108547e-14 L344.165141,1.42108547e-14 C346.37428,1.38050425e-14 348.165141,1.790861 348.165141,4 L348.165141,164 C348.165141,166.209139 346.37428,168 344.165141,168 L53.3705797,168 Z" id="path-1"></path>
+        <filter x="-12.4%" y="-21.4%" width="124.7%" height="148.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.131453804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="929" height="150"></rect>
+        <rect id="path-6" x="0" y="0" width="110" height="65.12" rx="0.88"></rect>
+        <filter x="-8.6%" y="-13.1%" width="117.3%" height="129.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.112473254   0 0 0 0 0.21054696   0 0 0 0 0.583227041  0 0 0 0.346750453 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="110" height="65.12" rx="0.88"></rect>
+        <filter x="-8.6%" y="-13.1%" width="117.3%" height="129.2%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.112473254   0 0 0 0 0.21054696   0 0 0 0 0.583227041  0 0 0 0.346750453 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-12">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,61 L15,61 C17.7614237,61 20,63.2385763 20,66 L20,110 C20,112.761424 17.7614237,115 15,115 L0,115 L0,61 Z" id="path-13"></path>
+        <filter x="-50.0%" y="-14.8%" width="200.0%" height="137.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.256991621 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M16.4909095,51.9101124 L13.8484235,54.5068073 C13.36756,54.9793381 12.5967257,54.9793381 12.1158621,54.5068073 L9.4733762,51.9101124 L1.23595506,51.9101124 C0.553355927,51.9101124 5.13457111e-15,51.3567564 1.11022302e-15,50.6741573 L0,1.23595506 C-8.35942838e-17,0.553355927 0.553355927,1.18937555e-14 1.23595506,1.17683641e-14 L106.343161,1.42108547e-14 C107.025761,1.40854633e-14 107.579117,0.553355927 107.579117,1.23595506 L107.579117,50.6741573 C107.579117,51.3567564 107.025761,51.9101124 106.343161,51.9101124 L16.4909095,51.9101124 Z" id="path-15"></path>
+        <filter x="-12.1%" y="-20.0%" width="124.2%" height="147.1%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.131453804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-18" x="0" y="0" width="170" height="97" rx="5"></rect>
+        <path d="M16.4909095,51.9101124 L13.8484235,54.5068073 C13.36756,54.9793381 12.5967257,54.9793381 12.1158621,54.5068073 L9.4733762,51.9101124 L1.23595506,51.9101124 C0.553355927,51.9101124 5.13457111e-15,51.3567564 1.11022302e-15,50.6741573 L0,1.23595506 C-8.35942838e-17,0.553355927 0.553355927,1.18937555e-14 1.23595506,1.17683641e-14 L106.343161,1.42108547e-14 C107.025761,1.40854633e-14 107.579117,0.553355927 107.579117,1.23595506 L107.579117,50.6741573 C107.579117,51.3567564 107.025761,51.9101124 106.343161,51.9101124 L16.4909095,51.9101124 Z" id="path-20"></path>
+        <filter x="-12.1%" y="-20.0%" width="124.2%" height="147.1%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.131453804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M13.2224409,41.6216216 L11.1036909,43.7036563 C10.7181337,44.0825324 10.1000774,44.0825324 9.7145201,43.7036563 L7.59577011,41.6216216 L0.990990991,41.6216216 C0.443681779,41.6216216 -3.70773224e-15,41.1779398 -3.77475828e-15,40.6306306 L0,0.990990991 C-6.70260474e-17,0.443681779 0.443681779,5.6610891e-14 0.990990991,5.6510352e-14 L85.7207207,5.68434189e-14 C86.2680299,5.67428798e-14 86.7117117,0.443681779 86.7117117,0.990990991 L86.7117117,40.6306306 C86.7117117,41.1779398 86.2680299,41.6216216 85.7207207,41.6216216 L13.2224409,41.6216216 Z" id="path-23"></path>
+        <filter x="-12.7%" y="-22.7%" width="125.4%" height="149.7%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.131453804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-26" x="0" y="0" width="170" height="97" rx="5"></rect>
+        <filter x="-9.4%" y="-11.3%" width="118.8%" height="133.0%" filterUnits="objectBoundingBox" id="filter-27">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.116876132 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M16.4909095,51.9101124 L13.8484235,54.5068073 C13.36756,54.9793381 12.5967257,54.9793381 12.1158621,54.5068073 L9.4733762,51.9101124 L1.23595506,51.9101124 C0.553355927,51.9101124 4.91252651e-15,51.3567564 8.8817842e-16,50.6741573 L0,1.23595506 C-8.35942838e-17,0.553355927 0.553355927,1.52244246e-14 1.23595506,1.50990331e-14 L106.343161,1.42108547e-14 C107.025761,1.40854633e-14 107.579117,0.553355927 107.579117,1.23595506 L107.579117,50.6741573 C107.579117,51.3567564 107.025761,51.9101124 106.343161,51.9101124 L16.4909095,51.9101124 Z" id="path-28"></path>
+        <filter x="-12.1%" y="-20.0%" width="124.2%" height="147.1%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.131453804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0,0 L15,0 C17.7614237,-5.07265313e-16 20,2.23857625 20,5 L20,49 C20,51.7614237 17.7614237,54 15,54 L0,54 L0,0 Z" id="path-31"></path>
+        <filter x="-50.0%" y="-14.8%" width="200.0%" height="137.0%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.256991621 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-33" x="0" y="0" width="172" height="140" rx="5"></rect>
+        <filter x="-10.5%" y="-9.3%" width="120.9%" height="125.7%" filterUnits="objectBoundingBox" id="filter-35">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.116876132 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M-5.24291296,91.954229 L-21.5093757,108 L-37.7758384,91.954229 L-50.9257206,91.954229 C-57.0418762,91.954229 -62,86.9961052 -62,80.8799496 L-62,-15.9257206 C-62,-22.0418762 -57.0418762,-27 -50.9257206,-27 L145.925721,-27 C152.041876,-27 157,-22.0418762 157,-15.9257206 L157,80.8799496 C157,86.9961052 152.041876,91.954229 145.925721,91.954229 L-5.24291296,91.954229 Z" id="path-36"></path>
+        <filter x="-19.9%" y="-27.8%" width="139.7%" height="164.4%" filterUnits="objectBoundingBox" id="filter-37">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.131453804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-38" x="0" y="0" width="172" height="140" rx="5"></rect>
+        <path d="M56.757087,140.954229 L40.4906243,157 L24.2241616,140.954229 L11.0742794,140.954229 C4.95812378,140.954229 6.07808356e-15,135.996105 5.32907052e-15,129.87995 L0,33.0742794 C-7.49013042e-16,26.9581238 4.95812378,22 11.0742794,22 L207.925721,22 C214.041876,22 219,26.9581238 219,33.0742794 L219,129.87995 C219,135.996105 214.041876,140.954229 207.925721,140.954229 L56.757087,140.954229 Z" id="path-40"></path>
+        <filter x="-19.9%" y="-27.8%" width="139.7%" height="164.4%" filterUnits="objectBoundingBox" id="filter-41">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.131453804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M18.919029,31.6514097 L13.4968748,37 L8.07472053,31.6514097 L3.69142647,31.6514097 C1.65270793,31.6514097 -1.08259662e-15,29.9987017 -1.33226763e-15,27.9599832 L-1.33226763e-15,3.69142647 C-1.58193864e-15,1.65270793 1.65270793,5.23329441e-14 3.69142647,5.19584376e-14 L69.3085735,5.2846616e-14 C71.3472921,5.24721095e-14 73,1.65270793 73,3.69142647 L73,27.9599832 C73,29.9987017 71.3472921,31.6514097 69.3085735,31.6514097 L18.919029,31.6514097 Z" id="path-42"></path>
+        <filter x="-19.9%" y="-33.8%" width="139.7%" height="178.4%" filterUnits="objectBoundingBox" id="filter-43">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.131453804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-44" x="0" y="0" width="118" height="97" rx="5"></rect>
+        <filter x="-13.6%" y="-11.3%" width="127.1%" height="133.0%" filterUnits="objectBoundingBox" id="filter-45">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.116876132 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M18.919029,39.6514097 L13.4968748,45 L8.07472053,39.6514097 L3.69142647,39.6514097 C1.65270793,39.6514097 -6.38507406e-16,37.9987017 -8.8817842e-16,35.9599832 L-8.8817842e-16,3.69142647 C-1.13784943e-15,1.65270793 1.65270793,5.67738362e-14 3.69142647,5.63993297e-14 L69.3085735,5.72875081e-14 C71.3472921,5.69130015e-14 73,1.65270793 73,3.69142647 L73,35.9599832 C73,37.9987017 71.3472921,39.6514097 69.3085735,39.6514097 L18.919029,39.6514097 Z" id="path-46"></path>
+        <filter x="-19.9%" y="-27.8%" width="139.7%" height="164.4%" filterUnits="objectBoundingBox" id="filter-47">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.131453804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M18.919029,39.6514097 L13.4968748,45 L8.07472053,39.6514097 L3.69142647,39.6514097 C1.65270793,39.6514097 -6.38507406e-16,37.9987017 -8.8817842e-16,35.9599832 L-8.8817842e-16,3.69142647 C-1.13784943e-15,1.65270793 1.65270793,5.67738362e-14 3.69142647,5.63993297e-14 L69.3085735,5.72875081e-14 C71.3472921,5.69130015e-14 73,1.65270793 73,3.69142647 L73,35.9599832 C73,37.9987017 71.3472921,39.6514097 69.3085735,39.6514097 L18.919029,39.6514097 Z" id="path-48"></path>
+        <filter x="-19.9%" y="-27.8%" width="139.7%" height="164.4%" filterUnits="objectBoundingBox" id="filter-49">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.341176471   0 0 0 0 0.862745098  0 0 0 0.131453804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-50" x="0" y="0" width="139" height="40" rx="3"></rect>
+        <filter x="-21.6%" y="-52.5%" width="143.2%" height="250.0%" filterUnits="objectBoundingBox" id="filter-51">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="9" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.157544056   0 0 0 0 0.287316712   0 0 0 0 0.780452806  0 0 0 0.321841033 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="V5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header-mockup" fill-rule="nonzero">
+            <g id="Mockup">
+                <g id="Group-26" fill-rule="evenodd">
+                    <g id="components/preview-skipTT" transform="translate(0.000000, 299.000000)" fill="#F7F9FD" fill-rule="nonzero">
+                        <g id="bg/editor-bg">
+                            <rect x="0" y="0" width="928" height="599"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-5" transform="translate(289.000000, 498.000000)">
+                        <g id="Group-3" transform="translate(0.000000, 23.000000)">
+                            <g id="tooltip/text-button-skip" transform="translate(0.458112, 0.000000)">
+                                <g id="Rectangle">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="Mask" fill-rule="nonzero">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                                        <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                                    </g>
+                                    <rect fill="#17A2B8" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="205.317196" height="3"></rect>
+                                </g>
+                            </g>
+                            <g id="Group-4" transform="translate(271.000000, 117.000000)">
+                                <rect id="Rectangle" fill="#007BFF" fill-rule="nonzero" x="0" y="0" width="58" height="31" rx="4"></rect>
+                                <text id="Next" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" fill="#FFFFFF">
+                                    <tspan x="12.34375" y="21">Next</tspan>
+                                </text>
+                            </g>
+                            <text id="Skip" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#A2A8BB">
+                                <tspan x="20.5" y="139">Skip</tspan>
+                            </text>
+                            <text id="Communicate-with-you" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="19" fill="#212529">
+                                <tspan x="20.5" y="72">Communicate with you’re team using </tspan>
+                                <tspan x="20.5" y="91">comments and direct mentions.</tspan>
+                            </text>
+                            <text id="Easy-communication" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" line-spacing="26" fill="#212529">
+                                <tspan x="19" y="38">Easy communication</tspan>
+                            </text>
+                            <path d="M329.561266,21.0001251 L334.280117,16.2810774 C334.573294,15.9881382 334.573294,15.5128312 334.280117,15.219892 C333.98694,14.9267027 333.512153,14.9267027 333.218976,15.219892 L328.500125,19.9389397 L323.781024,15.219892 C323.487847,14.9267027 323.01306,14.9267027 322.719883,15.219892 C322.426706,15.5128312 322.426706,15.9881382 322.719883,16.2810774 L327.438984,21.0001251 L322.719883,25.7191728 C322.426706,26.012112 322.426706,26.487419 322.719883,26.7803581 C322.866471,26.9267027 323.058587,27 323.250453,27 C323.442319,27 323.634435,26.9267027 323.781024,26.780108 L328.500125,22.0610603 L333.218976,26.780108 C333.365565,26.9267027 333.557681,27 333.749547,27 C333.941413,27 334.133529,26.9267027 334.280117,26.780108 C334.573294,26.4871688 334.573294,26.0118618 334.280117,25.7189226 L329.561266,21.0001251 Z" id="Path" fill="#A2A8BB"></path>
+                        </g>
+                        <text id="Tooltip" font-family="OpenSans-SemiBold, Open Sans" font-size="10" font-weight="500" fill="#202842">
+                            <tspan x="0" y="11">TOOLTIP</tspan>
+                        </text>
+                    </g>
+                    <g id="components/guides-nav" transform="translate(0.000000, 148.000000)">
+                        <g id="components/guides-thumbnail-tooltip-copy-3-+-overlay-Mask">
+                            <g id="Rectangle">
+                                <mask id="mask-5" fill="white">
+                                    <use xlink:href="#path-4"></use>
+                                </mask>
+                                <use id="Mask" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-4"></use>
+                                <g id="Group-6" mask="url(#mask-5)">
+                                    <g transform="translate(852.000000, 51.000000)">
+                                        <g id="Rectangle" stroke-width="1" fill-rule="evenodd">
+                                            <mask id="mask-7" fill="white">
+                                                <use xlink:href="#path-6"></use>
+                                            </mask>
+                                            <g id="Mask" fill-rule="nonzero">
+                                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-6"></use>
+                                                <use fill="#FFFFFF" xlink:href="#path-6"></use>
+                                            </g>
+                                            <rect fill="#17A2B8" fill-rule="nonzero" mask="url(#mask-7)" x="0" y="0" width="27.5" height="1"></rect>
+                                        </g>
+                                        <g id="close0button" stroke-width="1" fill-rule="evenodd" transform="translate(102.960000, 4.400000)">
+                                            <path d="M1.55347856,1.32002752 L2.59162577,0.28183702 C2.65612474,0.217390398 2.65612474,0.112822865 2.59162577,0.048376243 C2.52712681,-0.0161254143 2.4226737,-0.0161254143 2.35817473,0.048376243 L1.32002752,1.08656674 L0.281825269,0.048376243 C0.217326301,-0.0161254143 0.112873194,-0.0161254143 0.0483742261,0.048376243 C-0.016124742,0.112822865 -0.016124742,0.217390398 0.0483742261,0.28183702 L1.08657647,1.32002752 L0.0483742261,2.35821802 C-0.016124742,2.42266464 -0.016124742,2.52723217 0.0483742261,2.59167879 C0.0806237102,2.62387459 0.122889246,2.64 0.165099748,2.64 C0.20731025,2.64 0.249575785,2.62387459 0.281825269,2.59162376 L1.32002752,1.55343326 L2.35817473,2.59162376 C2.39042421,2.62387459 2.43268975,2.64 2.47490025,2.64 C2.51711075,2.64 2.55937629,2.62387459 2.59162577,2.59162376 C2.65612474,2.52717714 2.65612474,2.4226096 2.59162577,2.35816298 L1.55347856,1.32002752 Z" id="Path" fill="#A2A8BB"></path>
+                                        </g>
+                                        <g id="Group-4" stroke-width="1" fill-rule="evenodd" transform="translate(43.780000, 50.600000)">
+                                            <rect id="Rectangle" fill="#007BFF" fill-rule="nonzero" x="0" y="0" width="22.44" height="6.82" rx="0.88"></rect>
+                                            <text id="Let’s-Start!" font-family="Roboto-Medium, Roboto" font-size="3.52" font-weight="400" fill="#FFFFFF">
+                                                <tspan x="2.73453125" y="4.32">Let’s Start!</tspan>
+                                            </text>
+                                        </g>
+                                        <text id="Customizable-modal-d" font-family="Roboto-Regular, Roboto" font-size="3.08" font-weight="normal" line-spacing="5.72">
+                                            <tspan x="15.1525" y="24.12" fill="#212529">Customizable modal description. Change the font or color. </tspan>
+                                            <tspan x="13.8546289" y="29.84" fill="#212529">Customize this modal even more by selecting the Modal tab, </tspan>
+                                            <tspan x="11.4318359" y="35.56" fill="#212529">where you’ll be able to adjust background color, corner radius or </tspan>
+                                            <tspan x="48.4166504" y="41.28" fill="#212529">shadows.</tspan>
+                                        </text>
+                                        <text id="Helpful-Modal-Title!" font-family="Roboto-Bold, Roboto" font-size="3.96" font-weight="bold" line-spacing="5.72">
+                                            <tspan x="37.4536035" y="15.22" fill="#212529">Helpful Modal Title!</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <rect fill="#F7F9FD" fill-rule="nonzero" mask="url(#mask-5)" x="830" y="40" width="170" height="97" rx="5"></rect>
+                                <g id="Group-6" mask="url(#mask-5)">
+                                    <g transform="translate(852.000000, 51.000000)">
+                                        <g id="Rectangle" stroke-width="1" fill-rule="evenodd">
+                                            <mask id="mask-10" fill="white">
+                                                <use xlink:href="#path-9"></use>
+                                            </mask>
+                                            <g id="Mask" fill-rule="nonzero">
+                                                <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-9"></use>
+                                                <use fill="#FFFFFF" xlink:href="#path-9"></use>
+                                            </g>
+                                            <rect fill="#17A2B8" fill-rule="nonzero" mask="url(#mask-10)" x="0" y="0" width="27.5" height="1"></rect>
+                                        </g>
+                                        <g id="close0button" stroke-width="1" fill-rule="evenodd" transform="translate(102.960000, 4.400000)">
+                                            <path d="M1.55347856,1.32002752 L2.59162577,0.28183702 C2.65612474,0.217390398 2.65612474,0.112822865 2.59162577,0.048376243 C2.52712681,-0.0161254143 2.4226737,-0.0161254143 2.35817473,0.048376243 L1.32002752,1.08656674 L0.281825269,0.048376243 C0.217326301,-0.0161254143 0.112873194,-0.0161254143 0.0483742261,0.048376243 C-0.016124742,0.112822865 -0.016124742,0.217390398 0.0483742261,0.28183702 L1.08657647,1.32002752 L0.0483742261,2.35821802 C-0.016124742,2.42266464 -0.016124742,2.52723217 0.0483742261,2.59167879 C0.0806237102,2.62387459 0.122889246,2.64 0.165099748,2.64 C0.20731025,2.64 0.249575785,2.62387459 0.281825269,2.59162376 L1.32002752,1.55343326 L2.35817473,2.59162376 C2.39042421,2.62387459 2.43268975,2.64 2.47490025,2.64 C2.51711075,2.64 2.55937629,2.62387459 2.59162577,2.59162376 C2.65612474,2.52717714 2.65612474,2.4226096 2.59162577,2.35816298 L1.55347856,1.32002752 Z" id="Path" fill="#A2A8BB"></path>
+                                        </g>
+                                        <g id="Group-4" stroke-width="1" fill-rule="evenodd" transform="translate(43.780000, 50.600000)">
+                                            <rect id="Rectangle" fill="#007BFF" fill-rule="nonzero" x="0" y="0" width="22.44" height="6.82" rx="0.88"></rect>
+                                            <text id="Let’s-Start!" font-family="Roboto-Medium, Roboto" font-size="3.52" font-weight="400" fill="#FFFFFF">
+                                                <tspan x="2.73453125" y="4.32">Let’s Start!</tspan>
+                                            </text>
+                                        </g>
+                                        <text id="You-learned-everythi" font-family="Roboto-Regular, Roboto" font-size="3.08" font-weight="normal" line-spacing="5.72">
+                                            <tspan x="11.2528711" y="24.12" fill="#212529">You learned everything you needed to know before creating your </tspan>
+                                            <tspan x="22.3283887" y="29.84" fill="#212529">first project and manage everything related to it.</tspan>
+                                            <tspan x="40.6228516" y="35.56" fill="#212529">Happy managing! </tspan>
+                                            <tspan x="65.3771484" y="35.56" font-family="AppleColorEmoji, Apple Color Emoji" fill="#212529">🙃</tspan>
+                                            <tspan x="69.3771484" y="35.56" fill="#212529"> </tspan>
+                                        </text>
+                                        <text id="Ready-to-manage-your" font-family="Roboto-Bold, Roboto" font-size="3.96" font-weight="bold" line-spacing="5.72">
+                                            <tspan x="27.3834473" y="15.22" fill="#212529">Ready to manage your projects</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <rect fill="#F7F9FD" fill-rule="nonzero" mask="url(#mask-5)" x="830" y="107" width="121" height="30"></rect>
+                            </g>
+                            <g id="components/guides-thumbnail-tooltip" transform="translate(884.000000, 115.000000)" fill="#5D698D" font-family="OpenSans-Regular, Open Sans" font-size="10" font-weight="normal">
+                                <text id="Finished-tour">
+                                    <tspan x="0.804199219" y="11">Finished tour</tspan>
+                                </text>
+                            </g>
+                            <rect id="overlay" fill="url(#linearGradient-12)" fill-rule="nonzero" x="900" y="20" width="101" height="130"></rect>
+                        </g>
+                        <path d="M0,150.5 L929,150.5" id="Path-4" stroke="#DCDFF1" fill-rule="nonzero"></path>
+                        <g id="buttons/previous-guides" transform="translate(0.000000, 61.000000)"></g>
+                        <g id="Rectangle" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                            <use fill="#B0C1FF" xlink:href="#path-13"></use>
+                        </g>
+                        <g id="icons/arrow-white" transform="translate(10.000000, 88.500000) scale(-1, 1) translate(-10.000000, -88.500000) translate(6.000000, 81.000000)" fill="#FFFFFF">
+                            <path d="M7.78278856,6.91469988 L1.72295218,0.239632198 C1.58279556,0.0851212592 1.39569865,0 1.19620242,0 C0.996706193,0 0.809609285,0.0851212592 0.669452666,0.239632198 L0.223187791,0.731091617 C-0.0671998955,1.05133292 -0.0671998955,1.57181649 0.223187791,1.89156999 L5.31178087,7.49689027 L0.217541672,13.10843 C0.0773850527,13.262941 0,13.4689149 0,13.6885472 C0,13.9084235 0.0773850527,14.1143974 0.217541672,14.2690303 L0.663806546,14.7603678 C0.804073873,14.9148787 0.991060074,15 1.1905563,15 C1.39005253,15 1.57714944,14.9148787 1.71730606,14.7603678 L7.78278856,8.07920261 C7.9232773,7.92420387 8.00044094,7.71725433 7.9999981,7.49725612 C8.00044094,7.27640426 7.9232773,7.06957667 7.78278856,6.91469988 Z" transform="translate(4.000000, 7.500000) scale(-1, 1) rotate(-180.000000) translate(-4.000000, -7.500000) "></path>
+                        </g>
+                        <text id="GUIDES" font-family="OpenSans-SemiBold, Open Sans" font-size="10" font-weight="500" fill="#202842">
+                            <tspan x="30" y="26">GUIDES</tspan>
+                        </text>
+                        <g id="components/guides-thumbnail-tooltip" transform="translate(30.000000, 40.000000)">
+                            <g>
+                                <rect id="Rectangle" fill="#F7F9FD" fill-rule="nonzero" x="0" y="0" width="170" height="97" rx="5"></rect>
+                                <g id="Group" transform="translate(31.000000, 11.000000)">
+                                    <g id="tooltip/text-button-skip" transform="translate(0.141551, 0.000000)">
+                                        <g id="Rectangle">
+                                            <mask id="mask-16" fill="white">
+                                                <use xlink:href="#path-15"></use>
+                                            </mask>
+                                            <g id="Mask" fill-rule="nonzero">
+                                                <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-15"></use>
+                                                <use fill="#FFFFFF" xlink:href="#path-15"></use>
+                                            </g>
+                                            <rect fill="#17A2B8" fill-rule="nonzero" mask="url(#mask-16)" x="0" y="0" width="31.996886" height="1"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Group-4" transform="translate(83.735955, 36.151685)">
+                                        <rect id="Rectangle" fill="#007BFF" fill-rule="nonzero" x="0" y="0" width="17.9213483" height="9.57865169" rx="1.23595506"></rect>
+                                        <text id="Next" font-family="Roboto-Medium, Roboto" font-size="4.94382022" font-weight="400" fill="#FFFFFF">
+                                            <tspan x="3.81408006" y="6.85393258">Next</tspan>
+                                        </text>
+                                    </g>
+                                    <text id="Skip" font-family="Roboto-Regular, Roboto" font-size="4.3258427" font-weight="normal" fill="#A2A8BB">
+                                        <tspan x="6.33426966" y="42.9325843">Skip</tspan>
+                                    </text>
+                                    <text id="Create,-assign,-shar" font-family="Roboto-Regular, Roboto" font-size="4.3258427" font-weight="normal" line-spacing="5.87078652" fill="#212529">
+                                        <tspan x="6.33426966" y="22.2303371">Create, assign, share new issues in seconds </tspan>
+                                        <tspan x="6.33426966" y="28.1011236">while editing your projects,</tspan>
+                                    </text>
+                                    <text id="More-options" font-family="Roboto-Bold, Roboto" font-size="5.56179775" font-weight="bold" line-spacing="8.03370787" fill="#212529">
+                                        <tspan x="5.87078652" y="11.488764">More options</tspan>
+                                    </text>
+                                    <path d="M101.830728,6.48880269 L103.2888,5.03066997 C103.379389,4.94015505 103.379389,4.79329054 103.2888,4.70277562 C103.198212,4.61218341 103.051508,4.61218341 102.96092,4.70277562 L101.502848,6.16090834 L100.044698,4.70277562 C99.95411,4.61218341 99.8074062,4.61218341 99.7168177,4.70277562 C99.6262293,4.79329054 99.6262293,4.94015505 99.7168177,5.03066997 L101.174967,6.48880269 L99.7168177,7.94693542 C99.6262293,8.03745033 99.6262293,8.18431485 99.7168177,8.27482976 C99.762112,8.32004858 99.8214737,8.34269663 99.8807581,8.34269663 C99.9400425,8.34269663 99.9994042,8.32004858 100.044698,8.27475247 L101.502848,6.81661975 L102.96092,8.27475247 C103.006214,8.32004858 103.065575,8.34269663 103.12486,8.34269663 C103.184144,8.34269663 103.243506,8.32004858 103.2888,8.27475247 C103.379389,8.18423755 103.379389,8.03737304 103.2888,7.94685812 L101.830728,6.48880269 Z" id="Path" fill="#A2A8BB"></path>
+                                </g>
+                                <text id="More-options" font-family="OpenSans-Regular, Open Sans" font-size="10" font-weight="normal" fill="#5D698D">
+                                    <tspan x="54.2329102" y="86">More options</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="components/guides-thumbnail-tooltip" transform="translate(430.000000, 40.000000)">
+                            <g id="Rectangle">
+                                <mask id="mask-19" fill="white">
+                                    <use xlink:href="#path-18"></use>
+                                </mask>
+                                <use id="Mask" fill="#F7F9FD" fill-rule="nonzero" xlink:href="#path-18"></use>
+                            </g>
+                            <text id="Prioritize" font-family="OpenSans-Regular, Open Sans" font-size="10" font-weight="normal" fill="#5D698D">
+                                <tspan x="64.6845703" y="86">Prioritize</tspan>
+                            </text>
+                        </g>
+                        <g id="Group" transform="translate(461.000000, 51.000000)">
+                            <g id="tooltip/text-button-skip" transform="translate(0.141551, 0.000000)">
+                                <g id="Rectangle">
+                                    <mask id="mask-21" fill="white">
+                                        <use xlink:href="#path-20"></use>
+                                    </mask>
+                                    <g id="Mask" fill-rule="nonzero">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-20"></use>
+                                        <use fill="#FFFFFF" xlink:href="#path-20"></use>
+                                    </g>
+                                    <rect fill="#17A2B8" fill-rule="nonzero" mask="url(#mask-21)" x="0" y="0" width="85.9968864" height="1"></rect>
+                                </g>
+                            </g>
+                            <g id="Group-4" transform="translate(83.735955, 36.151685)">
+                                <rect id="Rectangle" fill="#007BFF" fill-rule="nonzero" x="0" y="0" width="17.9213483" height="9.57865169" rx="1.23595506"></rect>
+                                <text id="Next" font-family="Roboto-Medium, Roboto" font-size="4.94382022" font-weight="400" fill="#FFFFFF">
+                                    <tspan x="3.81408006" y="6.85393258">Next</tspan>
+                                </text>
+                            </g>
+                            <text id="Skip" font-family="Roboto-Regular, Roboto" font-size="4.3258427" font-weight="normal" fill="#A2A8BB">
+                                <tspan x="6.33426966" y="42.9325843">Skip</tspan>
+                            </text>
+                            <text id="Assign-due-dates,-co" font-family="Roboto-Regular, Roboto" font-size="4.3258427" font-weight="normal" line-spacing="5.87078652" fill="#212529">
+                                <tspan x="6.33426966" y="22.2303371">Assign due dates, colors and labels to </tspan>
+                                <tspan x="6.33426966" y="28.1011236">prioritize duties.</tspan>
+                            </text>
+                            <text id="Prioritize" font-family="Roboto-Bold, Roboto" font-size="5.56179775" font-weight="bold" line-spacing="8.03370787" fill="#212529">
+                                <tspan x="5.87078652" y="11.488764">Prioritize </tspan>
+                            </text>
+                            <path d="M101.830728,6.48880269 L103.2888,5.03066997 C103.379389,4.94015505 103.379389,4.79329054 103.2888,4.70277562 C103.198212,4.61218341 103.051508,4.61218341 102.96092,4.70277562 L101.502848,6.16090834 L100.044698,4.70277562 C99.95411,4.61218341 99.8074062,4.61218341 99.7168177,4.70277562 C99.6262293,4.79329054 99.6262293,4.94015505 99.7168177,5.03066997 L101.174967,6.48880269 L99.7168177,7.94693542 C99.6262293,8.03745033 99.6262293,8.18431485 99.7168177,8.27482976 C99.762112,8.32004858 99.8214737,8.34269663 99.8807581,8.34269663 C99.9400425,8.34269663 99.9994042,8.32004858 100.044698,8.27475247 L101.502848,6.81661975 L102.96092,8.27475247 C103.006214,8.32004858 103.065575,8.34269663 103.12486,8.34269663 C103.184144,8.34269663 103.243506,8.32004858 103.2888,8.27475247 C103.379389,8.18423755 103.379389,8.03737304 103.2888,7.94685812 L101.830728,6.48880269 Z" id="Path" fill="#A2A8BB"></path>
+                        </g>
+                        <g id="components/guides-thumbnail-tooltip" transform="translate(630.000000, 40.000000)">
+                            <rect id="Rectangle" fill="#F7F9FD" fill-rule="nonzero" x="0" y="0" width="170" height="97" rx="5"></rect>
+                            <text id="Project-filter" font-family="OpenSans-Regular, Open Sans" font-size="10" font-weight="normal" fill="#5D698D">
+                                <tspan x="57.0795898" y="86">Project filter</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-2" transform="translate(672.000000, 51.000000)">
+                            <g id="tooltip/text-button-skip" transform="translate(0.000000, -0.000000)">
+                                <g id="Rectangle">
+                                    <mask id="mask-24" fill="white">
+                                        <use xlink:href="#path-23"></use>
+                                    </mask>
+                                    <g id="Mask" fill-rule="nonzero">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href="#path-23"></use>
+                                        <use fill="#FFFFFF" xlink:href="#path-23"></use>
+                                    </g>
+                                    <path d="M81.7719353,5.20273369 L82.94102,4.03360025 C83.013654,3.96102522 83.013654,3.84326899 82.94102,3.77069397 C82.868386,3.69805697 82.7507587,3.69805697 82.6781247,3.77069397 L81.50904,4.93982741 L80.3398933,3.77069397 C80.2672593,3.69805697 80.149632,3.69805697 80.076998,3.77069397 C80.004364,3.84326899 80.004364,3.96102522 80.076998,4.03360025 L81.2461447,5.20273369 L80.076998,6.37186713 C80.004364,6.44444216 80.004364,6.56219839 80.076998,6.63477342 C80.113315,6.67102994 80.1609113,6.68918919 80.2084457,6.68918919 C80.25598,6.68918919 80.3035763,6.67102994 80.3398933,6.63471144 L81.50904,5.46557799 L82.6781247,6.63471144 C82.7144417,6.67102994 82.762038,6.68918919 82.8095724,6.68918919 C82.8571067,6.68918919 82.904703,6.67102994 82.94102,6.63471144 C83.013654,6.56213641 83.013654,6.44438018 82.94102,6.37180516 L81.7719353,5.20273369 Z" id="Path" fill="#A2A8BB" mask="url(#mask-24)"></path>
+                                    <rect fill="#F5A623" fill-rule="nonzero" opacity="0" mask="url(#mask-24)" x="0" y="0" width="64.766155" height="1"></rect>
+                                </g>
+                            </g>
+                            <g id="Group-4" transform="translate(67.387387, 28.986486)">
+                                <rect id="Rectangle" fill="#007BFF" fill-rule="nonzero" x="0" y="0" width="14.3693694" height="7.68018018" rx="0.990990991"></rect>
+                                <text id="Next" font-family="Roboto-Medium, Roboto" font-size="3.96396396" font-weight="400" fill="#FFFFFF">
+                                    <tspan x="3.05813626" y="5.48648649">Next</tspan>
+                                </text>
+                            </g>
+                            <text id="Don’t-show-any-tips" font-family="Roboto-Regular, Roboto" font-size="3.46846847" font-weight="normal" fill="#A2A8BB">
+                                <tspan x="4.95495495" y="33.472973">Don’t show any tips</tspan>
+                            </text>
+                            <text id="Find-your-projects-b" font-family="Roboto-Regular, Roboto" font-size="3.46846847" font-weight="normal" line-spacing="4.70720721" fill="#212529">
+                                <tspan x="4.95495495" y="17.1216216">Find your projects by due date, members, </tspan>
+                                <tspan x="4.95495495" y="21.8288288">clients or timeframe. </tspan>
+                            </text>
+                            <text id="Project-filter" font-family="Roboto-Bold, Roboto" font-size="4.45945946" font-weight="bold" line-spacing="6.44144144" fill="#212529">
+                                <tspan x="4.95495495" y="9.2027027">Project filter</tspan>
+                            </text>
+                            <circle id="Oval" stroke="#17A2B8" stroke-width="0.743243243" opacity="0.4" fill-rule="nonzero" cx="10.4054054" cy="50.7882883" r="4.21171171"></circle>
+                            <circle id="Oval" fill="#17A2B8" fill-rule="nonzero" cx="10.4054054" cy="50.7882883" r="1.73423423"></circle>
+                        </g>
+                        <g id="components/guides-thumbnail-tooltip-selected" transform="translate(230.000000, 39.000000)">
+                            <g>
+                                <g id="Rectangle" fill-rule="nonzero">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-27)" xlink:href="#path-26"></use>
+                                    <rect stroke="#B0C1FF" stroke-width="2" stroke-linejoin="square" fill="#F7F9FD" fill-rule="evenodd" x="1" y="1" width="168" height="95" rx="5"></rect>
+                                </g>
+                                <g id="Group" transform="translate(31.000000, 11.000000)">
+                                    <g id="tooltip/text-button-skip" transform="translate(0.141551, 0.000000)">
+                                        <g id="Rectangle">
+                                            <mask id="mask-29" fill="white">
+                                                <use xlink:href="#path-28"></use>
+                                            </mask>
+                                            <g id="Mask" fill-rule="nonzero">
+                                                <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-28"></use>
+                                                <use fill="#FFFFFF" xlink:href="#path-28"></use>
+                                            </g>
+                                            <rect fill="#17A2B8" fill-rule="nonzero" mask="url(#mask-29)" x="0" y="0" width="62.996886" height="1"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="Group-4" transform="translate(83.735955, 36.151685)">
+                                        <rect id="Rectangle" fill="#007BFF" fill-rule="nonzero" x="0" y="0" width="17.9213483" height="9.57865169" rx="1.23595506"></rect>
+                                        <text id="Next" font-family="Roboto-Medium, Roboto" font-size="4.94382022" font-weight="400" fill="#FFFFFF">
+                                            <tspan x="3.81408006" y="6.85393258">Next</tspan>
+                                        </text>
+                                    </g>
+                                    <text id="Skip" font-family="Roboto-Regular, Roboto" font-size="4.3258427" font-weight="normal" fill="#A2A8BB">
+                                        <tspan x="6.33426966" y="42.9325843">Skip</tspan>
+                                    </text>
+                                    <text id="Customizable-tooltip" font-family="Roboto-Regular, Roboto" font-size="4.3258427" font-weight="normal" line-spacing="5.87078652" fill="#212529">
+                                        <tspan x="6.33426966" y="22.2303371">Customizable tooltip description. Change the font </tspan>
+                                        <tspan x="6.33426966" y="28.1011236">or color.</tspan>
+                                    </text>
+                                    <text id="Easy-communication" font-family="Roboto-Bold, Roboto" font-size="5.56179775" font-weight="bold" line-spacing="8.03370787" fill="#212529">
+                                        <tspan x="5.87078652" y="11.488764">Easy communication</tspan>
+                                    </text>
+                                    <path d="M101.830728,6.48880269 L103.2888,5.03066997 C103.379389,4.94015505 103.379389,4.79329054 103.2888,4.70277562 C103.198212,4.61218341 103.051508,4.61218341 102.96092,4.70277562 L101.502848,6.16090834 L100.044698,4.70277562 C99.95411,4.61218341 99.8074062,4.61218341 99.7168177,4.70277562 C99.6262293,4.79329054 99.6262293,4.94015505 99.7168177,5.03066997 L101.174967,6.48880269 L99.7168177,7.94693542 C99.6262293,8.03745033 99.6262293,8.18431485 99.7168177,8.27482976 C99.762112,8.32004858 99.8214737,8.34269663 99.8807581,8.34269663 C99.9400425,8.34269663 99.9994042,8.32004858 100.044698,8.27475247 L101.502848,6.81661975 L102.96092,8.27475247 C103.006214,8.32004858 103.065575,8.34269663 103.12486,8.34269663 C103.184144,8.34269663 103.243506,8.32004858 103.2888,8.27475247 C103.379389,8.18423755 103.379389,8.03737304 103.2888,7.94685812 L101.830728,6.48880269 Z" id="Path" fill="#A2A8BB"></path>
+                                </g>
+                                <text id="Issue-conversation" font-family="OpenSans-Regular, Open Sans" font-size="10" font-weight="normal" fill="#202842">
+                                    <tspan x="42.0576172" y="86">Issue conversation</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="buttons/add-guide-hovered" transform="translate(205.000000, 78.000000)">
+                            <g>
+                                <circle id="Oval" stroke="#DCDFF1" stroke-width="2" fill-rule="nonzero" cx="10" cy="10" r="10"></circle>
+                                <g id="add-(5)" transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) translate(6.000000, 6.000000)" fill="#77BF28">
+                                    <path d="M7.56584394,3.44185517 L4.5581263,3.44185517 L4.5581263,0.434109031 C4.5581263,0.297093877 4.37207335,0 3.99998374,0 C3.62789412,0 3.44184117,0.297110142 3.44184117,0.434109031 L3.44184117,3.44187143 L0.434107266,3.44187143 C0.297108933,3.44185517 0,3.62790887 0,3.99998374 C0,4.3720586 0.297108933,4.55812857 0.434107266,4.55812857 L3.44185744,4.55812857 L3.44185744,7.56589097 C3.44185744,7.70287359 3.62789412,8 4,8 C4.37210588,8 4.55814256,7.70287359 4.55814256,7.56589097 L4.55814256,4.55812857 L7.56589273,4.55812857 C7.7028748,4.55812857 8,4.37209113 8,3.99998374 C8,3.62787634 7.70284227,3.44185517 7.56584394,3.44185517 Z" id="add-icon-green"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="buttons/next-guides" transform="translate(909.000000, 61.000000)">
+                            <g>
+                                <g id="Rectangle" fill-rule="nonzero" transform="translate(10.000000, 27.000000) scale(-1, 1) translate(-10.000000, -27.000000) ">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                                    <use fill="#B0C1FF" xlink:href="#path-31"></use>
+                                </g>
+                                <g id="icons/arrow-white" transform="translate(6.000000, 20.000000)" fill="#FFFFFF">
+                                    <path d="M7.78278856,6.91469988 L1.72295218,0.239632198 C1.58279556,0.0851212592 1.39569865,0 1.19620242,0 C0.996706193,0 0.809609285,0.0851212592 0.669452666,0.239632198 L0.223187791,0.731091617 C-0.0671998955,1.05133292 -0.0671998955,1.57181649 0.223187791,1.89156999 L5.31178087,7.49689027 L0.217541672,13.10843 C0.0773850527,13.262941 0,13.4689149 0,13.6885472 C0,13.9084235 0.0773850527,14.1143974 0.217541672,14.2690303 L0.663806546,14.7603678 C0.804073873,14.9148787 0.991060074,15 1.1905563,15 C1.39005253,15 1.57714944,14.9148787 1.71730606,14.7603678 L7.78278856,8.07920261 C7.9232773,7.92420387 8.00044094,7.71725433 7.9999981,7.49725612 C8.00044094,7.27640426 7.9232773,7.06957667 7.78278856,6.91469988 Z" transform="translate(4.000000, 7.500000) scale(-1, 1) rotate(-180.000000) translate(-4.000000, -7.500000) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="properties-panel" transform="translate(928.000000, 148.000000)">
+                        <rect id="guide-nav-copy" fill="#FFFFFF" fill-rule="nonzero" x="1" y="0" width="407" height="750"></rect>
+                        <g id="components/dismiss" transform="translate(21.000000, 500.000000)">
+                            <g id="components/design">
+                                <g id="Group-20" transform="translate(3.000000, 19.000000)">
+                                    <g id="Group-18">
+                                        <g id="Group-17">
+                                            <g id="Combined-Shape-+-Rectangle-Copy-7-+-Rectangle-Mask">
+                                                <mask id="mask-34" fill="white">
+                                                    <use xlink:href="#path-33"></use>
+                                                </mask>
+                                                <g id="Mask" fill-rule="nonzero">
+                                                    <use fill="black" fill-opacity="1" filter="url(#filter-35)" xlink:href="#path-33"></use>
+                                                    <rect stroke="#B0C1FF" stroke-width="2" fill="#F7F9FD" fill-rule="evenodd" x="-1" y="-1" width="174" height="142" rx="5"></rect>
+                                                </g>
+                                                <g id="Combined-Shape" fill-rule="nonzero" mask="url(#mask-34)">
+                                                    <use fill="black" fill-opacity="1" filter="url(#filter-37)" xlink:href="#path-36"></use>
+                                                    <use fill="#FFFFFF" xlink:href="#path-36"></use>
+                                                </g>
+                                                <rect id="Rectangle-Copy-7" fill="#DCDFF1" fill-rule="nonzero" mask="url(#mask-34)" x="16" y="57" width="42.3123288" height="10.3928571" rx="5.19642857"></rect>
+                                                <rect id="Rectangle" fill="#5D698D" fill-rule="nonzero" mask="url(#mask-34)" x="70" y="51" width="65.3917808" height="21.75" rx="2.89285714"></rect>
+                                                <path d="M59.1319858,45.1660377 C52.8736846,43.1608141 45.4546586,42 37.5,42 M23.4798145,43.2615964 C8.02203559,46.1488047 -3,53.6728733 -3,62.5 M13.388057,78.972572 C18.924064,81.0521723 25.5447885,82.4337156 32.7421689,82.8600352 M37.5,83 C48.6014792,83 58.6597151,80.7391003 65.9755959,77.0773451 M77.7147716,64.9456746 C77.9031145,64.1437355 78,63.3275948 78,62.5 C78,59.9314385 77.0667392,57.4732098 75.362493,55.2074535" id="Shape" stroke="#FFA7BC" stroke-width="2" stroke-linecap="round" fill-rule="nonzero" mask="url(#mask-34)"></path>
+                                            </g>
+                                            <text id="Dismiss-Link" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#202842">
+                                                <tspan x="46.1337891" y="121">Dismiss Link</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g id="Group-17-Copy-2" transform="translate(192.000000, 0.000000)">
+                                        <g id="Group-17-Copy">
+                                            <mask id="mask-39" fill="white">
+                                                <use xlink:href="#path-38"></use>
+                                            </mask>
+                                            <rect stroke="#F7F9FD" stroke-width="2" x="-1" y="-1" width="174" height="142" rx="5"></rect>
+                                            <g id="Group-17" mask="url(#mask-39)">
+                                                <g transform="translate(-62.000000, -7.000000)">
+                                                    <g id="Combined-Shape" stroke="none" fill="none" fill-rule="nonzero">
+                                                        <use fill="black" fill-opacity="1" filter="url(#filter-41)" xlink:href="#path-40"></use>
+                                                        <use fill="#FFFFFF" xlink:href="#path-40"></use>
+                                                    </g>
+                                                    <rect id="Rectangle" stroke="none" fill="#F7F9FD" fill-rule="nonzero" x="60" y="99" width="176" height="48"></rect>
+                                                    <text id="Close-Button" stroke="none" fill="none" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal">
+                                                        <tspan x="106.70166" y="128" fill="#5D698D">Close Button</tspan>
+                                                    </text>
+                                                    <path d="M203.434517,38.7386463 L199.221532,42.9520005 L203.434517,47.1651551 C204.061178,47.7920449 204.061178,48.8075226 203.434517,49.4344124 C203.121406,49.747518 202.710898,49.9041905 202.300588,49.9041905 C201.8896,49.9041905 201.479051,49.7477575 201.16618,49.4344124 L196.952276,45.2207788 L192.738692,49.4343725 C192.425621,49.7474781 192.015072,49.9041506 191.604404,49.9041506 C191.193855,49.9041506 190.783585,49.7477176 190.470235,49.4343725 C189.843574,48.8077621 189.843574,47.7922445 190.470235,47.1651152 L194.683101,42.9519606 L190.469996,38.7386463 C189.843335,38.111996 189.843335,37.0962788 190.469996,36.4696285 C191.096537,35.8434572 192.111672,35.8434572 192.738453,36.4696285 L196.952236,40.6829827 L201.165701,36.4696285 C201.792601,35.8434572 202.807857,35.8434572 203.434278,36.4696285 C204.061178,37.0962788 204.061178,38.111996 203.434517,38.7386463 Z" id="Path" stroke="none" fill="#DCDFF1" fill-rule="evenodd"></path>
+                                                    <path d="M163,39.5 C163,56.7355099 174.03893,71.3927396 189.432308,76.7872083 M202.5,79 C209.402408,79 215.891309,77.2295651 221.537367,74.1180311 M227.444884,70.1284234 C232.681872,65.8580807 236.803002,60.2713365 239.303669,53.8727946 C241.044479,49.4185238 242,44.5708488 242,39.5 C242,28.4569563 237.468351,18.472336 230.163226,11.3043121 C223.037265,4.31209005 213.272204,0 202.5,0 C185.594189,0 171.168962,10.6206401 165.532487,25.5537519" id="Shape" stroke="#FFA7BC" stroke-width="2" fill="none" stroke-linecap="round" fill-rule="nonzero"></path>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <text id="DESIGN" font-family="OpenSans-SemiBold, Open Sans" font-size="10" font-weight="500" fill="#202842">
+                                    <tspan x="0" y="11">DESIGN</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="navigation/tab-1-3" transform="translate(0.000000, 306.000000)">
+                            <g>
+                                <path d="M0.5,43.5 L409,43.5" id="Path-4" stroke="#DCDFF1" fill-rule="nonzero"></path>
+                                <g id="Group-11" transform="translate(21.000000, 0.000000)">
+                                    <path d="M0.5,43.5 L125.5,43.5 L125.5,0.5 L3,0.5 C1.61928813,0.5 0.5,1.61928813 0.5,3 L0.5,43.5 Z" id="Rectangle-Copy" stroke="#869FFD" fill="#869FFD" fill-rule="nonzero"></path>
+                                    <rect id="Rectangle-Copy-2" stroke="#DCDFF1" fill="#FFFFFF" fill-rule="nonzero" x="126.5" y="0.5" width="121" height="43"></rect>
+                                    <path d="M247.5,0.5 L247.5,43.5 L366.5,43.5 L366.5,3 C366.5,1.61928813 365.380712,0.5 364,0.5 L247.5,0.5 Z" id="Rectangle-Copy-3" stroke="#DCDFF1" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    <text id="Configuration" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                                        <tspan x="18.269043" y="27">Configuration</tspan>
+                                    </text>
+                                    <text id="Content" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#5D698D">
+                                        <tspan x="160.893555" y="27">Content</tspan>
+                                    </text>
+                                    <text id="Position" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#5D698D">
+                                        <tspan x="281.181641" y="27">Position</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="components/templates" transform="translate(21.000000, 364.000000)">
+                            <g>
+                                <g id="Group-22" transform="translate(0.000000, 19.000000)">
+                                    <rect id="Rectangle" fill="#F7F9FD" fill-rule="nonzero" x="0" y="0" width="118" height="97" rx="5"></rect>
+                                    <text id="Text-only" font-family="OpenSans-Regular, Open Sans" font-size="12" font-weight="normal" fill="#5D698D">
+                                        <tspan x="34.1464844" y="85">Text only</tspan>
+                                    </text>
+                                    <g id="Group-12" transform="translate(23.000000, 23.000000)" fill-rule="nonzero">
+                                        <g id="Combined-Shape">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-43)" xlink:href="#path-42"></use>
+                                            <use fill="#FFFFFF" xlink:href="#path-42"></use>
+                                        </g>
+                                        <g id="Group-14" transform="translate(6.200000, 8.200000)" fill-opacity="0.33">
+                                            <rect id="Rectangle" fill="#5D698D" x="1" y="7" width="59" height="2" rx="1"></rect>
+                                            <rect id="Rectangle-Copy" fill="#001F7D" x="1" y="0.2" width="39" height="3" rx="1.5"></rect>
+                                            <rect id="Rectangle-Copy-6" fill="#5D698D" x="0.8" y="12.8" width="34" height="2" rx="1"></rect>
+                                        </g>
+                                        <g id="Group-13" transform="translate(26.200000, 24.300000)" fill="#DCDFF1" opacity="0">
+                                            <rect id="Rectangle-Copy-7" x="0" y="0.0214285714" width="14.1041096" height="3.46428571" rx="1.73214286"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Group-23" transform="translate(125.000000, 19.000000)">
+                                    <g id="Rectangle-Copy-4" fill-rule="nonzero">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-45)" xlink:href="#path-44"></use>
+                                        <rect stroke="#B0C1FF" stroke-width="2" stroke-linejoin="square" fill="#F7F9FD" fill-rule="evenodd" x="1" y="1" width="116" height="95" rx="5"></rect>
+                                    </g>
+                                    <text id="With-button" font-family="OpenSans-Regular, Open Sans" font-size="12" font-weight="normal" fill="#202842">
+                                        <tspan x="25.6660156" y="85">With button</tspan>
+                                    </text>
+                                    <g id="Group-12-Copy" transform="translate(23.000000, 15.000000)" fill-rule="nonzero">
+                                        <g id="Combined-Shape">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-47)" xlink:href="#path-46"></use>
+                                            <use fill="#FFFFFF" xlink:href="#path-46"></use>
+                                        </g>
+                                        <g id="Group-14" transform="translate(7.200000, 6.200000)" fill-opacity="0.33">
+                                            <rect id="Rectangle" fill="#5D698D" x="0" y="7.8" width="59" height="2" rx="1"></rect>
+                                            <rect id="Rectangle-Copy" fill="#001F7D" x="0" y="0.8" width="39" height="3" rx="1.5"></rect>
+                                            <rect id="Rectangle-Copy-6" fill="#5D698D" x="0" y="13.8" width="34" height="2" rx="1"></rect>
+                                        </g>
+                                        <g id="Group-13" transform="translate(26.200000, 26.300000)">
+                                            <rect id="Rectangle-Copy-7" fill="#DCDFF1" x="0" y="2.02142857" width="14.1041096" height="3.46428571" rx="1.73214286"></rect>
+                                            <rect id="Rectangle" fill="#5D698D" x="17.630137" y="0.128571429" width="21.7972603" height="7.25" rx="0.964285714"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Group-24" opacity="0" transform="translate(249.000000, 19.000000)">
+                                    <rect id="Rectangle-Copy-5" fill="#F7F9FD" fill-rule="nonzero" x="0" y="0" width="118" height="97" rx="5"></rect>
+                                    <text id="Illustrative" font-family="OpenSans-Regular, Open Sans" font-size="12" font-weight="normal" fill="#5D698D">
+                                        <tspan x="30.3349609" y="85">Illustrative</tspan>
+                                    </text>
+                                    <g id="Group-12-Copy-2" transform="translate(23.000000, 15.000000)" fill-rule="nonzero">
+                                        <g id="Combined-Shape">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-49)" xlink:href="#path-48"></use>
+                                            <use fill="#FFFFFF" xlink:href="#path-48"></use>
+                                        </g>
+                                        <rect id="Rectangle" fill="#DCDFF1" x="7" y="9" width="15" height="13" rx="2"></rect>
+                                        <g id="Group-14" transform="translate(26.200000, 9.200000)" fill="#5D698D" fill-opacity="0.33">
+                                            <rect id="Rectangle" x="0" y="0" width="40" height="2" rx="1"></rect>
+                                            <rect id="Rectangle-Copy-6" x="0" y="5.8" width="23" height="2" rx="1"></rect>
+                                        </g>
+                                        <g id="Group-13" transform="translate(26.200000, 26.300000)">
+                                            <rect id="Rectangle-Copy-7" fill="#DCDFF1" x="0" y="1.7" width="14.1041096" height="3.46428571" rx="1.73214286"></rect>
+                                            <rect id="Rectangle" fill="#5D698D" x="17.630137" y="0.128571429" width="21.7972603" height="7.25" rx="0.964285714"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                                <text id="TEMPLATES" font-family="OpenSans-SemiBold, Open Sans" font-size="10" font-weight="500" fill="#202842">
+                                    <tspan x="0" y="11">TEMPLATES</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path d="M0.5,0 L0.5,750" id="Path-2" stroke="#DCDFF1" fill-rule="nonzero"></path>
+                        <g id="Group-8" transform="translate(21.000000, 106.000000)">
+                            <rect id="Rectangle" stroke="#DCDFF1" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="366" height="43" rx="3"></rect>
+                            <path d="M348.282789,21.4146999 L342.222952,14.7396322 C342.082796,14.5851213 341.895699,14.5 341.696202,14.5 C341.496706,14.5 341.309609,14.5851213 341.169453,14.7396322 L340.723188,15.2310916 C340.4328,15.5513329 340.4328,16.0718165 340.723188,16.39157 L345.811781,21.9968903 L340.717542,27.60843 C340.577385,27.762941 340.5,27.9689149 340.5,28.1885472 C340.5,28.4084235 340.577385,28.6143974 340.717542,28.7690303 L341.163807,29.2603678 C341.304074,29.4148787 341.49106,29.5 341.690556,29.5 C341.890053,29.5 342.077149,29.4148787 342.217306,29.2603678 L348.282789,22.5792026 C348.423277,22.4242039 348.500441,22.2172543 348.499998,21.9972561 C348.500441,21.7764043 348.423277,21.5695767 348.282789,21.4146999 Z" id="Path" fill="#5D698D" transform="translate(344.500000, 22.000000) rotate(-270.000000) translate(-344.500000, -22.000000) "></path>
+                            <text id="Ventana" font-family="OpenSans-Regular, Open Sans" font-size="16" font-weight="normal" fill="#202842">
+                                <tspan x="15" y="28">Ventana</tspan>
+                            </text>
+                        </g>
+                        <text id="THEMES" font-family="OpenSans-SemiBold, Open Sans" font-size="10" font-weight="500" fill="#202842">
+                            <tspan x="21" y="92">THEMES</tspan>
+                        </text>
+                        <g id="target-element" transform="translate(21.000000, 170.000000)">
+                            <text id="Target-Element" font-family="OpenSans-SemiBold, Open Sans" font-size="10" font-weight="500" fill="#202842">
+                                <tspan x="0" y="11">TARGET ELEMENT</tspan>
+                            </text>
+                            <g id="components/input" transform="translate(33.000000, 72.000000)">
+                                <rect id="Rectangle" stroke="#DCDFF1" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="333" height="43" rx="3"></rect>
+                                <text id="Ex.-#add-new" font-family="OpenSans-Regular, Open Sans" font-size="16" font-weight="normal" fill="#5D698D">
+                                    <tspan x="15" y="28">Ex. #add-new</tspan>
+                                </text>
+                            </g>
+                            <text id="ID" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" fill="#5D698D">
+                                <tspan x="0" y="100">ID</tspan>
+                            </text>
+                            <text id="Please-provide-the-t" font-family="OpenSans-Italic, Open Sans" font-size="12" font-style="italic" font-weight="normal" fill="#5D698D">
+                                <tspan x="0" y="32">Please provide the target element’s ID, where this </tspan>
+                                <tspan x="0" y="49">tooltip should appear.</tspan>
+                            </text>
+                        </g>
+                        <g id="buttons/tertiary-small" transform="translate(275.000000, 75.000000)">
+                            <g id="buttons/quaternary">
+                                <rect id="Rectangle" stroke="#DCDFF1" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="112" height="25" rx="3"></rect>
+                                <text id="Manage-Themes" font-family="OpenSans-Regular, Open Sans" font-size="12" font-weight="normal" fill="#5D698D">
+                                    <tspan x="10.3369141" y="17">Manage Themes</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-28" transform="translate(17.000000, 14.000000)">
+                            <text id="TOOLTIP" font-family="OpenSans-SemiBold, Open Sans" font-size="10" font-weight="500" fill="#202842">
+                                <tspan x="4" y="11">TOOLTIP</tspan>
+                            </text>
+                            <text id="Issue-conversation" font-family="OpenSans, Open Sans" font-size="20" font-weight="normal" fill="#5D698D">
+                                <tspan x="0" y="39">Issue conversation</tspan>
+                            </text>
+                            <g id="buttons/delete" transform="translate(338.000000, 6.000000)">
+                                <g>
+                                    <rect id="Rectangle" stroke="#DCDFF1" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="32" height="32" rx="5"></rect>
+                                    <g id="icons/delete" transform="translate(10.000000, 8.000000)" fill="#5D698D" fill-rule="nonzero">
+                                        <path d="M11.3857189,4.61501347 L2.36102731,4.61501347 C1.41166888,4.61501347 0.64235334,5.38723395 0.64235334,6.34091975 L1.57359726,16.2740937 C1.57359726,17.2272018 2.34348786,18 3.29282233,18 L10.5982889,18 C11.5476234,18 12.317514,17.2272018 12.317514,16.2740937 L13.105543,6.34091975 C13.1043689,5.38723395 12.3350774,4.61501347 11.3857189,4.61501347 Z M4.58125274,14.9780573 C4.58125274,15.4543105 4.19660695,15.8401078 3.72191575,15.8401078 C3.24724852,15.8401078 2.86260273,15.4537087 2.86260273,14.9780573 L2.86260273,7.20475145 C2.86260273,6.72849827 3.24724852,6.34091975 3.72191575,6.34091975 C4.19660695,6.34091975 4.58125274,6.72849827 4.58125274,7.20475145 L4.58125274,14.9780573 Z M7.58945932,14.9780573 C7.58945932,15.4543105 7.20481353,15.8401078 6.7301463,15.8401078 C6.25547906,15.8401078 5.87083327,15.4537087 5.87083327,14.9780573 L5.87083327,7.20475145 C5.87083327,6.72849827 6.25547906,6.34091975 6.7301463,6.34091975 C7.20483749,6.34091975 7.58945932,6.72849827 7.58945932,7.20475145 L7.58945932,14.9780573 Z M10.5977138,14.9780573 C10.5977138,15.4543105 10.2130441,15.8401078 9.73837684,15.8401078 C9.26370961,15.8401078 8.87906382,15.4537087 8.87906382,14.9780573 L8.87906382,7.20475145 C8.87906382,6.72849827 9.26370961,6.34091975 9.73837684,6.34091975 C10.2130441,6.34091975 10.5977138,6.72849827 10.5977138,7.20475145 L10.5977138,14.9780573 Z M1.13307173,3.3225124 L12.5518942,3.26342768 C13.1823571,3.26070769 13.6976568,2.73248702 13.7024448,2.08420419 C13.7072575,1.43592776 13.199921,0.912950389 12.5697538,0.914420073 L9.05979513,0.932905386 C8.87524368,0.388050764 8.37612062,-0.00260034408 7.78090107,1.303388e-05 L6.41091932,0.00818592069 C5.81551177,0.0114275547 5.31072479,0.406905593 5.11748772,0.953389302 L1.15061107,0.974748709 C0.5201236,0.977462309 0.0054392475,1.50584285 3.58204473e-05,2.15396581 C-0.00490909324,2.8028579 0.502747638,3.32459135 1.13307173,3.3225124 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="navbar/selected-flow">
+                        <g>
+                            <rect id="nav-bg" fill="#3457DC" fill-rule="nonzero" x="0" y="0" width="1336" height="148"></rect>
+                            <g id="Top-nav" transform="translate(20.000000, 20.000000)">
+                                <g id="icons/gift-white" opacity="0.5" transform="translate(1201.000000, 9.000000)" fill="#FFFFFF">
+                                    <path d="M8.38988591,8.97994904 L14.6147478,8.97994904 L14.6147478,13.834238 C14.6147478,14.4782689 14.0836078,15 13.4287092,15 L8.38988591,15 L8.38988591,8.97994904 Z M6.60831069,8.97994904 L6.60831069,15 L1.57174166,15 C0.916918183,15 0.385627873,14.4782689 0.385627873,13.834238 L0.385627873,8.97994904 L6.60831069,8.97994904 Z M2.00264249,13.77667 C2.24854413,13.77667 2.44804569,13.5805546 2.44804569,13.3389461 L2.44804569,10.9100107 C2.44804569,10.6684391 2.24850656,10.4722868 2.00264249,10.4722868 C1.75677842,10.4722868 1.55723929,10.6683653 1.55723929,10.9100107 L1.55723929,13.3389461 C1.55723929,13.5805546 1.75674085,13.77667 2.00264249,13.77667 Z M13.8144873,4.41505114 C14.4692733,4.41505114 14.9999624,4.93674532 15,5.58025922 L15,6.57180311 C15,7.21539086 14.4693108,7.73690041 13.8145249,7.73690041 L8.38988591,7.73690041 L8.38988591,4.46128282 L6.60831069,4.46128282 L6.60831069,7.73690041 L1.18547508,7.73690041 C0.530614034,7.73690041 -5.68434189e-14,7.21546472 -5.68434189e-14,6.57184004 L-5.68434189e-14,5.58029615 C-5.68434189e-14,4.93674532 0.530614034,4.41505114 1.18547508,4.41505114 L3.46298639,4.41505114 C3.13116006,4.26295189 2.85460056,4.10450131 2.69045323,3.94246889 C1.77289634,3.04080352 1.77289634,1.57841291 2.69045323,0.676230568 C3.14923167,0.22539788 3.75066688,7.10542736e-14 4.35210209,7.10542736e-14 C4.95413844,7.10542736e-14 5.55497251,0.225360954 6.01375095,0.676230568 C6.39832684,1.05394926 6.76832521,1.99106385 7.06874225,2.95240205 C7.20786735,2.91499575 7.35176395,2.88855655 7.50257361,2.88855655 C7.65390925,2.88855655 7.79776829,2.91495883 7.93753209,2.95266054 C8.23678443,1.99992615 8.60332628,1.07536649 8.98433293,0.700786529 C9.4430738,0.249916916 10.0445842,0.0245190355 10.6460569,0.0245190355 C11.247417,0.0245190355 11.8488146,0.249916916 12.3081566,0.700786529 C13.2257511,1.60263653 13.2257511,3.06532255 12.3081566,3.96702485 C12.1521998,4.12015804 11.8942754,4.2700048 11.5867951,4.41505114 L13.8144873,4.41505114 Z M9.82426831,1.52623611 C9.60267505,1.75647133 9.26277098,2.63180828 8.93913512,3.73047524 C8.99646833,3.83198552 9.04181643,3.9391086 9.07540483,4.05232451 C10.263322,3.72216683 11.2242357,3.36771168 11.4696114,3.140209 C11.6877106,2.925889 11.8083508,2.6391566 11.8083508,2.33392415 C11.8083508,2.0286917 11.6877106,1.74192238 11.4685218,1.52623611 C11.2486568,1.31066061 10.9568435,1.19179499 10.6460569,1.19179499 C10.3356836,1.19179499 10.043457,1.31066061 9.82426831,1.52623611 Z M3.5302759,1.50171707 C3.07728337,1.94719545 3.07728337,2.67172556 3.53023832,3.11720394 C3.77561397,3.34459584 4.7424639,3.70086038 5.93601673,4.03142425 C5.96971784,3.92574129 6.01254869,3.8253388 6.06650052,3.73017983 C5.74057283,2.62010265 5.39668625,1.73342934 5.17332716,1.50112625 C4.95473957,1.28599387 4.66296384,1.16742365 4.35213966,1.16742365 C4.0418039,1.16742365 3.74953976,1.28628928 3.5302759,1.50171707 Z"></path>
+                                </g>
+                                <g id="Group-3" transform="translate(574.000000, 7.000000)" font-family="OpenSans-SemiBold, Open Sans" font-size="14" font-weight="500">
+                                    <text id="Projects" fill="#FFFFFF">
+                                        <tspan x="0" y="15">Projects</tspan>
+                                    </text>
+                                    <text id="Themes" fill="#A6B3E5">
+                                        <tspan x="95" y="15">Themes</tspan>
+                                    </text>
+                                </g>
+                                <g id="boardme-white" transform="translate(0.000000, 7.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <path d="M30.4927007,7.06934992 C31.3818026,7.06934992 32.1908731,7.27392402 32.9199368,7.68307837 C33.6490002,8.09223272 34.2209805,8.6674121 34.6358946,9.40863374 C35.0508087,10.1498554 35.2582628,11.0126245 35.2582628,11.9969668 C35.2582628,12.9813091 35.0508087,13.8440782 34.6358946,14.5852999 C34.2209805,15.3265215 33.6490002,15.9017009 32.9199368,16.3108552 C32.1908731,16.7200096 31.3818026,16.9245837 30.4927007,16.9245837 C29.1768302,16.9245837 28.1751236,16.5095058 27.4875516,15.6793375 L27.4875516,16.7822698 L24.8380414,16.7822698 L24.8380414,3.58266071 L27.6120253,3.58266071 L27.6120253,8.22564991 C28.3114521,7.45477939 29.2716675,7.06934992 30.4927007,7.06934992 Z M30.0125882,14.6475622 C30.7238696,14.6475622 31.3077044,14.40741 31.76411,13.9270983 C32.2205158,13.4467867 32.448715,12.803416 32.448715,11.9969668 C32.448715,11.1905176 32.2205158,10.5471469 31.76411,10.0668353 C31.3077044,9.58652365 30.7238696,9.34637145 30.0125882,9.34637145 C29.3013067,9.34637145 28.7174719,9.58652365 28.2610663,10.0668353 C27.8046608,10.5471469 27.5764614,11.1905176 27.5764614,11.9969668 C27.5764614,12.803416 27.8046608,13.4467867 28.2610663,13.9270983 C28.7174719,14.40741 29.3013067,14.6475622 30.0125882,14.6475622 Z M41.6597641,16.9245837 C40.6521153,16.9245837 39.7482085,16.7140799 38.9480169,16.293066 C38.1478253,15.8720521 37.5224997,15.2879782 37.0720214,14.5408268 C36.6215433,13.7936754 36.3963074,12.9457305 36.3963074,11.9969668 C36.3963074,11.0482031 36.6215433,10.2002583 37.0720214,9.45310683 C37.5224997,8.7059554 38.1478253,8.12188151 38.9480169,7.7008676 C39.7482085,7.27985371 40.6521153,7.06934992 41.6597641,7.06934992 C42.6674126,7.06934992 43.5683557,7.27985371 44.36262,7.7008676 C45.1568844,8.12188151 45.7792462,8.7059554 46.2297246,9.45310683 C46.6802029,10.2002583 46.9054385,11.0482031 46.9054385,11.9969668 C46.9054385,12.9457305 46.6802029,13.7936754 46.2297246,14.5408268 C45.7792462,15.2879782 45.1568844,15.8720521 44.36262,16.293066 C43.5683557,16.7140799 42.6674126,16.9245837 41.6597641,16.9245837 Z M41.6597641,14.6475622 C42.3710455,14.6475622 42.9548803,14.40741 43.4112859,13.9270983 C43.8676915,13.4467867 44.0958909,12.803416 44.0958909,11.9969668 C44.0958909,11.1905176 43.8676915,10.5471469 43.4112859,10.0668353 C42.9548803,9.58652365 42.3710455,9.34637145 41.6597641,9.34637145 C40.9484824,9.34637145 40.3616841,9.58652365 39.8993511,10.0668353 C39.4370182,10.5471469 39.2058553,11.1905176 39.2058553,11.9969668 C39.2058553,12.803416 39.4370182,13.4467867 39.8993511,13.9270983 C40.3616841,14.40741 40.9484824,14.6475622 41.6597641,14.6475622 Z M58.4637045,7.21166376 L58.4637045,16.7822698 L55.8141943,16.7822698 L55.8141943,15.6793375 C55.1266223,16.5095058 54.1308431,16.9245837 52.8268272,16.9245837 C51.9258706,16.9245837 51.1108729,16.7229744 50.3818094,16.3197498 C49.6527458,15.9165253 49.0807655,15.3413459 48.6658514,14.5941945 C48.2509372,13.8470431 48.0434831,12.9813091 48.0434831,11.9969668 C48.0434831,11.0126245 48.2509372,10.1468906 48.6658514,9.39973913 C49.0807655,8.6525877 49.6527458,8.07740834 50.3818094,7.67418376 C51.1108729,7.27095918 51.9258706,7.06934992 52.8268272,7.06934992 C54.0478604,7.06934992 55.0021486,7.45477939 55.6897206,8.22564991 L55.6897206,7.21166376 L58.4637045,7.21166376 Z M53.3069398,14.6475622 C54.0063665,14.6475622 54.5872376,14.40741 55.0495706,13.9270983 C55.5119037,13.4467867 55.7430666,12.803416 55.7430666,11.9969668 C55.7430666,11.1905176 55.5119037,10.5471469 55.0495706,10.0668353 C54.5872376,9.58652365 54.0063665,9.34637145 53.3069398,9.34637145 C52.5956583,9.34637145 52.0088598,9.58652365 51.546527,10.0668353 C51.0841939,10.5471469 50.853031,11.1905176 50.853031,11.9969668 C50.853031,12.803416 51.0841939,13.4467867 51.546527,13.9270983 C52.0088598,14.40741 52.5956583,14.6475622 53.3069398,14.6475622 Z M63.6738152,8.47469913 C64.0057465,8.01217683 64.4532545,7.66232545 65.0163522,7.42513452 C65.5794501,7.18794361 66.2284848,7.06934992 66.9634757,7.06934992 L66.9634757,9.63099914 C66.6552536,9.60728004 66.4477996,9.59542066 66.3411074,9.59542066 C65.5468431,9.59542066 64.9244812,9.81778382 64.4740029,10.2625168 C64.0235246,10.7072498 63.7982889,11.3743393 63.7982889,12.2638053 L63.7982889,16.7822698 L61.024305,16.7822698 L61.024305,7.21166376 L63.6738152,7.21166376 L63.6738152,8.47469913 Z M78.4328319,3.58266071 L78.4328319,16.7822698 L75.7833217,16.7822698 L75.7833217,15.6793375 C75.0957495,16.5095058 74.0999705,16.9245837 72.7959544,16.9245837 C71.894998,16.9245837 71.0800001,16.7229744 70.3509366,16.3197498 C69.6218732,15.9165253 69.0498929,15.3413459 68.6349788,14.5941945 C68.2200644,13.847043 68.0126105,12.9813091 68.0126105,11.9969668 C68.0126105,11.0126245 68.2200644,10.1468906 68.6349788,9.39973913 C69.0498929,8.6525877 69.6218732,8.07740834 70.3509366,7.67418376 C71.0800001,7.27095918 71.894998,7.06934992 72.7959544,7.06934992 C74.0169876,7.06934992 74.9712758,7.45477939 75.658848,8.22564991 L75.658848,3.58266071 L78.4328319,3.58266071 Z M73.276067,14.6475622 C73.9754937,14.6475622 74.556365,14.40741 75.0186978,13.9270983 C75.4810309,13.4467867 75.7121938,12.803416 75.7121938,11.9969668 C75.7121938,11.1905176 75.4810309,10.5471469 75.0186978,10.0668353 C74.556365,9.58652365 73.9754937,9.34637145 73.276067,9.34637145 C72.5647855,9.34637145 71.9779872,9.58652365 71.5156542,10.0668353 C71.0533213,10.5471469 70.8221582,11.1905176 70.8221582,11.9969668 C70.8221582,12.803416 71.0533213,13.4467867 71.5156542,13.9270983 C71.9779872,14.40741 72.5647855,14.6475622 73.276067,14.6475622 Z M93.2451944,7.06934992 C94.4425181,7.06934992 95.3938428,7.42216613 96.099197,8.12780914 C96.804551,8.83345214 97.1572229,9.89190079 97.1572229,11.3031868 L97.1572229,16.7822698 L94.383239,16.7822698 L94.383239,11.7301283 C94.383239,10.9711174 94.2261667,10.4048325 93.9120174,10.0312568 C93.5978681,9.65768111 93.1503601,9.47089605 92.5694804,9.47089605 C91.9174724,9.47089605 91.401801,9.68139984 91.0224508,10.1024137 C90.6431008,10.5234276 90.4534285,11.1490093 90.4534285,11.9791776 L90.4534285,16.7822698 L87.6794446,16.7822698 L87.6794446,11.7301283 C87.6794446,10.223966 87.0748645,9.47089605 85.865686,9.47089605 C85.2255327,9.47089605 84.7157886,9.68139984 84.3364384,10.1024137 C83.9570885,10.5234276 83.7674161,11.1490093 83.7674161,11.9791776 L83.7674161,16.7822698 L80.9934324,16.7822698 L80.9934324,7.21166376 L83.6429426,7.21166376 L83.6429426,8.31459607 C83.9985834,7.91137148 84.4342367,7.6030279 84.9499157,7.38955607 C85.4655947,7.17608424 86.0316477,7.06934992 86.6480917,7.06934992 C87.323809,7.06934992 87.9343166,7.20276781 88.4796323,7.46960761 C89.0249482,7.73644741 89.463565,8.12484171 89.7954965,8.63480221 C90.1867012,8.13670127 90.6816273,7.75127179 91.2802892,7.47850222 C91.878951,7.20573265 92.5339129,7.06934992 93.2451944,7.06934992 Z M104.465603,14.7009299 C104.9635,14.7009299 105.405081,14.6268088 105.790358,14.4785645 C106.175636,14.3303201 106.534235,14.0960976 106.866166,13.7758899 L108.342068,15.3769206 C107.441111,16.4087012 106.12526,16.9245837 104.394476,16.9245837 C103.315699,16.9245837 102.36141,16.7140799 101.531582,16.293066 C100.701754,15.8720521 100.06161,15.2879782 99.6111317,14.5408268 C99.1606533,13.7936754 98.9354177,12.9457305 98.9354177,11.9969668 C98.9354177,11.0600626 99.1576898,10.2150826 99.6022407,9.46200144 C100.046792,8.70892024 100.657299,8.12188151 101.433781,7.7008676 C102.210264,7.27985371 103.084534,7.06934992 104.056618,7.06934992 C104.96943,7.06934992 105.799246,7.26206467 106.546091,7.64749992 C107.292937,8.03293517 107.888626,8.59032549 108.333177,9.31968758 C108.777728,10.0490497 109,10.9118188 109,11.9080207 L101.922785,13.2777914 C102.124314,13.7521733 102.441423,14.1079543 102.874119,14.3451452 C103.306815,14.5823362 103.837305,14.7009299 104.465603,14.7009299 Z M104.056618,9.16847914 C103.357192,9.16847914 102.788175,9.39380714 102.349552,9.8444699 C101.910928,10.2951327 101.679765,10.9177495 101.656056,11.7123391 L106.314926,10.8050884 C106.184524,10.3069874 105.917798,9.90969856 105.514738,9.61320989 C105.111679,9.31672124 104.625644,9.16847914 104.056618,9.16847914 Z" id="boardme"></path>
+                                    <path d="M17.567724,20.7410714 L16.0320707,22.7743326 C15.895383,22.955312 15.637923,22.9911723 15.4570175,22.8544287 C15.4268016,22.8315889 15.3998898,22.8046764 15.377048,22.7744567 L13.8400924,20.7410714 L0.821092279,20.7410714 C0.367615535,20.7410714 5.55348842e-17,20.3733053 0,19.9196429 L0,0.821428571 C-5.55348842e-17,0.367766098 0.367615535,5.69267553e-14 0.821092279,5.68434189e-14 L19.9114878,5.68434189e-14 C20.3649645,5.67600824e-14 20.73258,0.367766098 20.73258,0.821428571 L20.73258,19.9196429 C20.73258,20.3733053 20.3649645,20.7410714 19.9114878,20.7410714 L17.567724,20.7410714 Z M6.97928437,16.1665649 C7.15552659,16.2689855 7.33980107,16.3607997 7.53210839,16.4420079 C8.11054434,16.6862718 8.72821164,16.8084019 9.38512884,16.8084019 C10.0478595,16.8084019 10.6684334,16.6891797 11.2468694,16.4507316 C11.8253053,16.2122834 12.3296125,15.8764256 12.7598061,15.4431479 C13.1899997,15.0098703 13.53008,14.4908172 13.7800573,13.8859732 C14.0300347,13.2811293 14.1550215,12.6123214 14.1550215,11.8795297 C14.1550215,11.1641854 14.0300347,10.505555 13.7800573,9.90361896 C13.53008,9.30168288 13.1899997,8.77972197 12.7598061,8.33772059 C12.3296125,7.89571922 11.8253053,7.5511378 11.2468694,7.30396598 C10.6684334,7.05679416 10.0478595,6.93321011 9.38512884,6.93321011 C9.17003206,6.93321011 8.94912516,6.95501906 8.72240153,6.99863762 C8.4956779,7.04225617 8.27622434,7.10477516 8.06403426,7.18619645 C7.85184421,7.26761777 7.65419067,7.37230073 7.47106774,7.5002485 C7.28794478,7.62819626 7.13243797,7.77358927 7.00454258,7.93643189 L7.00454258,3.57459804 L6.97928437,3.57459804 L6.97928437,3.49107143 L4.51600753,3.49107143 L4.51600753,16.8392857 L6.97928437,16.8392857 L6.97928437,16.1665649 Z M11.756995,11.8795297 C11.756995,12.2401098 11.6945016,12.5745137 11.569513,12.8827515 C11.4445243,13.1909893 11.2744841,13.4585124 11.0593873,13.6853289 C10.8442905,13.9121454 10.5928636,14.0909788 10.305099,14.2218345 C10.0173344,14.3526901 9.71068074,14.418117 9.38512884,14.418117 C9.05957696,14.418117 8.75292332,14.3526901 8.4651587,14.2218345 C8.17739408,14.0909788 7.92596715,13.9121454 7.71087036,13.6853289 C7.49577358,13.4585124 7.32718675,13.1909893 7.2051048,12.8827515 C7.08302283,12.5745137 7.02198277,12.2401098 7.02198277,11.8795297 C7.02198277,11.5538445 7.08302283,11.2383416 7.2051048,10.9330117 C7.32718675,10.6276818 7.49577358,10.3572509 7.71087036,10.1217106 C7.92596715,9.88617044 8.17739408,9.69715952 8.4651587,9.55467224 C8.75292332,9.41218496 9.05957696,9.34094238 9.38512884,9.34094238 C9.71068074,9.34094238 10.0173344,9.4049153 10.305099,9.53286306 C10.5928636,9.66081083 10.8442905,9.8381903 11.0593873,10.0650068 C11.2744841,10.2918233 11.4445243,10.5608004 11.569513,10.8719461 C11.6945016,11.1830918 11.756995,11.5189496 11.756995,11.8795297 Z M15.1902072,17.4553571 C15.8704223,17.4553571 16.4218456,16.903708 16.4218456,16.2232143 C16.4218456,15.5427206 15.8704223,14.9910714 15.1902072,14.9910714 C14.509992,14.9910714 13.9585687,15.5427206 13.9585687,16.2232143 C13.9585687,16.903708 14.509992,17.4553571 15.1902072,17.4553571 Z" id="Combined-Shape"></path>
+                                </g>
+                                <g id="User" transform="translate(1241.000000, 7.000000)">
+                                    <text id="James" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#A6B3E5">
+                                        <tspan x="0" y="15">James</tspan>
+                                    </text>
+                                    <g id="icons/arrow-white" opacity="0.5" transform="translate(50.000000, 10.500000) rotate(-270.000000) translate(-50.000000, -10.500000) translate(47.500000, 5.500000)" fill="#FFFFFF">
+                                        <path d="M5.18852571,4.60979992 L1.14863479,0.159754799 C1.05519704,0.0567475061 0.930465769,0 0.797468282,0 C0.664470795,0 0.539739523,0.0567475061 0.446301777,0.159754799 L0.148791861,0.487394411 C-0.0447999303,0.700888611 -0.0447999303,1.04787766 0.148791861,1.26104666 L3.54118725,4.99792685 L0.145027781,8.73895334 C0.0515900351,8.84196063 0,8.97927659 0,9.12569817 C0,9.27228234 0.0515900351,9.4095983 0.145027781,9.51268689 L0.442537697,9.8402452 C0.536049249,9.94325249 0.660706716,10 0.793704202,10 C0.926701689,10 1.05143296,9.94325249 1.14487071,9.8402452 L5.18852571,5.38613507 C5.28218487,5.28280258 5.33362729,5.14483622 5.33333207,4.99817075 C5.33362729,4.85093617 5.28218487,4.71305111 5.18852571,4.60979992 Z" transform="translate(2.666667, 5.000000) scale(-1, 1) rotate(-180.000000) translate(-2.666667, -5.000000) "></path>
+                                    </g>
+                                </g>
+                                <g id="icons/notification-white" opacity="0.5" transform="translate(1164.000000, 9.000000)" fill="#FFFFFF">
+                                    <path d="M4.15874413,13.1906739 L7.81938279,13.1906739 C7.8194164,13.194587 7.81968531,13.1984674 7.81968531,13.2023804 C7.81968531,14.1831848 7.00008867,14.9782826 5.98906346,14.9782826 C4.97803825,14.9782826 4.15844161,14.1831848 4.15844161,13.2023804 C4.15844161,13.1984674 4.15871052,13.194587 4.15874413,13.1906739 Z M11.833803,10.9708043 C12.0073156,11.2181087 12.0257021,11.5382283 11.8814668,11.8027174 C11.7372651,12.0671413 11.4541727,12.2325652 11.1457693,12.2325652 L0.832290352,12.2325652 C0.52388699,12.2325652 0.240794553,12.0671739 0.0965928728,11.8027174 C-0.0476088078,11.5382609 -0.0292558667,11.2181413 0.144290352,10.970837 L1.79185338,8.62294565 C1.79185338,8.17470652 1.79185338,6.46705435 1.79185338,5.69370652 C1.79185338,3.71827174 3.24207186,2.07159783 5.16600464,1.70047826 L5.16600464,0.798423913 C5.16600464,0.35748913 5.53447523,4.52970994e-14 5.98902985,4.52970994e-14 C6.44358447,4.52970994e-14 6.81205506,0.35748913 6.81208867,0.798423913 L6.81208867,1.70044565 C8.73602144,2.07153261 10.1862399,3.71820652 10.1862399,5.69367391 C10.1862399,6.14797826 10.1862399,7.90418478 10.1862399,8.62291304 L11.833803,10.9708043 Z"></path>
+                                </g>
+                            </g>
+                            <g id="Page-details" transform="translate(20.000000, 93.000000)">
+                                <g id="components/trigger" transform="translate(717.000000, 0.000000)">
+                                    <g>
+                                        <path d="M20,0 L378,0 C379.656854,-3.04359188e-16 381,1.34314575 381,3 L381,37 C381,38.6568542 379.656854,40 378,40 L20,40 C8.954305,40 1.3527075e-15,31.045695 0,20 L0,20 C-1.3527075e-15,8.954305 8.954305,2.02906125e-15 20,0 Z" id="Rectangle" fill="#2D4DC8" fill-rule="nonzero"></path>
+                                        <circle id="Oval" stroke="#3457DC" stroke-width="3" fill="#3457DC" fill-rule="nonzero" cx="20" cy="20" r="15.5"></circle>
+                                        <text id="COPY" font-family="OpenSans-Bold, Open Sans" font-size="12" font-weight="bold" fill="#FFFFFF">
+                                            <tspan x="332" y="25">COPY</tspan>
+                                        </text>
+                                        <g id="icons/trigger" transform="translate(11.000000, 14.000000)" fill="#B0B6DA">
+                                            <path d="M17.898722,5.76313872 C18.0337593,5.89349408 18.0337593,6.10496686 17.898722,6.23548913 L13.7288158,10.2609827 C13.6639771,10.3235733 13.5757964,10.3589579 13.4843306,10.3589579 C13.392692,10.3589579 13.3046842,10.3235733 13.2398455,10.2609827 L12.3357348,9.38821941 C12.2006974,9.25786405 12.2006974,9.04655819 12.3357348,8.91620283 L15.3573909,5.99898011 L12.3355619,3.08225811 C12.2005245,2.95190276 12.2005245,2.74059689 12.3355619,2.61024153 L13.2396726,1.73747819 C13.36935,1.61229699 13.5987926,1.61229699 13.72847,1.73747819 L17.898722,5.76313872 Z M5.66426523,8.91620283 C5.79964843,9.04655819 5.79964843,9.25786405 5.66461104,9.3880525 L4.76050027,10.2608158 C4.69566157,10.3234064 4.60765385,10.358791 4.51601516,10.358791 C4.42437647,10.358791 4.33636874,10.3234064 4.27153005,10.2608158 L0.101278043,6.23532222 C-0.0337593476,6.10479995 -0.0337593476,5.89349408 0.101278043,5.76313872 L4.27170295,1.73781201 C4.33654165,1.67522141 4.42454937,1.64000376 4.51618806,1.64000376 C4.60782675,1.64000376 4.69583447,1.67522141 4.76067317,1.73781201 L5.66478394,2.61057535 C5.72979554,2.67316595 5.76610521,2.75812226 5.76610521,2.84658364 C5.76610521,2.93521193 5.72962264,3.02000133 5.66478394,3.08259193 L2.64295492,5.99931393 L5.66426523,8.91620283 Z M11.3714537,0.383184501 C11.4153711,0.460796846 11.4252266,0.552095669 11.3992911,0.637051978 L7.99672925,11.7604866 C7.95229313,11.9058637 7.81448929,12 7.66527384,12 C7.63294094,12 7.59991643,11.9954935 7.56723773,11.9861466 L6.83430111,11.7773444 C6.74646629,11.7521412 6.67229082,11.6945579 6.62854632,11.6166117 C6.58480181,11.5389994 6.57477342,11.4477005 6.6007089,11.3627442 L10.0032708,0.239476482 C10.0572165,0.0627206254 10.2498307,-0.0385926937 10.4327623,0.0138165027 L11.1656989,0.222618747 C11.2535337,0.247654987 11.3275363,0.305405248 11.3714537,0.383184501 Z"></path>
+                                        </g>
+                                        <text id="boardme-67jh67ol-mem" font-family="OpenSans-Regular, Open Sans" font-size="14" font-weight="normal" fill="#A6B3E5">
+                                            <tspan x="47" y="26">boardme-67jh67ol-members-settings</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <g id="buttons/secondary" transform="translate(1108.000000, 0.000000)">
+                                    <g id="buttons/seccondary-button">
+                                        <g id="Rectangle" fill-rule="nonzero">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-51)" xlink:href="#path-50"></use>
+                                            <rect stroke="#2D4DC8" stroke-width="2" stroke-linejoin="square" x="1" y="1" width="137" height="38" rx="3"></rect>
+                                        </g>
+                                        <text id="Log-In" font-family="OpenSans-Regular, Open Sans" font-size="16" font-weight="normal" fill="#FFFFFF">
+                                            <tspan x="42.0976562" y="26">Publish</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <g id="buttons/more-inactive" transform="translate(1257.000000, 1.000000)">
+                                    <g id="buttons/more-active">
+                                        <rect id="Rectangle" stroke="#2D4DC8" stroke-width="2" opacity="0" fill-rule="nonzero" x="1" y="1" width="37" height="37" rx="3"></rect>
+                                        <g id="icons/more-white" opacity="0.5" transform="translate(10.000000, 18.000000)" fill="#FFFFFF">
+                                            <path d="M2.04545818,4 C0.91578282,4 0,3.1045695 0,2 C0,0.8954305 0.91578282,0 2.04545818,0 C3.17513353,0 4.09091635,0.8954305 4.09091635,2 C4.09091635,3.1045695 3.17513353,4 2.04545818,4 Z M10,4 C8.87032464,4 7.95454182,3.1045695 7.95454182,2 C7.95454182,0.8954305 8.87032464,0 10,0 C11.1296754,0 12.0454582,0.8954305 12.0454582,2 C12.0454582,3.1045695 11.1296754,4 10,4 Z M17.9545418,4 C16.8248665,4 15.9090836,3.1045695 15.9090836,2 C15.9090836,0.8954305 16.8248665,0 17.9545418,0 C19.0842172,0 20,0.8954305 20,2 C20,3.1045695 19.0842172,4 17.9545418,4 Z"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                                <text id="Members-Settings" font-family="OpenSans-Bold, Open Sans" font-size="20" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="28" y="28">Members Settings</tspan>
+                                </text>
+                                <g id="icons/back" transform="translate(9.000000, 20.500000) scale(-1, 1) translate(-9.000000, -20.500000) translate(0.000000, 13.000000)" fill="#B0C1FF">
+                                    <path d="M17.6868476,6.82072581 L11.1440967,0.369112903 C10.7449071,-0.024516129 10.0975019,-0.024516129 9.69831227,0.369112903 C9.29904089,0.762822581 9.29904089,1.40104839 9.69831227,1.79475806 L14.4958662,6.52548387 L1.92559501,6.52548387 C1.36103739,6.52548387 0.903290179,6.97685484 0.903290179,7.53354839 C0.903290179,8.09016129 1.36103739,8.5416129 1.92559501,8.5416129 L14.4958662,8.5416129 L9.69847584,13.2723387 C9.29920446,13.6660484 9.29920446,14.3042742 9.69847584,14.6979839 C9.89802974,14.8946774 10.1597398,14.9932258 10.421368,14.9932258 C10.6829963,14.9932258 10.9446245,14.8946774 11.1442602,14.6979839 L17.6868476,8.24637097 C18.086119,7.85266129 18.086119,7.21443548 17.6868476,6.82072581 Z"></path>
+                                </g>
+                            </g>
+                            <g id="Breadcrumbs" transform="translate(20.000000, 73.000000)">
+                                <text id="Projects" font-family="OpenSans-Regular, Open Sans" font-size="12" font-weight="normal" fill="#A6B3E5">
+                                    <tspan x="0" y="13">Projects </tspan>
+                                </text>
+                                <text id="Ventana" font-family="OpenSans-Regular, Open Sans" font-size="12" font-weight="normal" fill="#A6B3E5">
+                                    <tspan x="73" y="13">Ventana</tspan>
+                                </text>
+                                <text id="Task-manager" font-family="OpenSans-Regular, Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="147" y="13">Task manager</tspan>
+                                </text>
+                                <g id="icon/arrow-right" transform="translate(58.000000, 5.000000)" fill="#7491FF">
+                                    <g id="Path">
+                                        <path d="M4.62730253,4.39604114 L1.00661918,7.83580725 C0.776299989,8.05473092 0.402876893,8.05473092 0.172669513,7.83580725 C-0.0575565042,7.61707835 -0.0575565042,7.2623211 0.172669513,7.04360989 L3.3764153,3.99994246 L0.172762691,0.956381253 C-0.0574633254,0.737563821 -0.0574633254,0.38284198 0.172762691,0.164113074 C0.402988708,-0.0547043579 0.776393168,-0.0547043579 1.00671236,0.164113074 L4.62739571,3.6039323 C4.74250872,3.71334987 4.8,3.8566019 4.8,3.99992475 C4.8,4.14331842 4.74239691,4.28667668 4.62730253,4.39604114 Z"></path>
+                                    </g>
+                                </g>
+                                <g id="icon/arrow-right" transform="translate(132.000000, 5.000000)" fill="#7491FF">
+                                    <g id="Path">
+                                        <path d="M4.62730253,4.39604114 L1.00661918,7.83580725 C0.776299989,8.05473092 0.402876893,8.05473092 0.172669513,7.83580725 C-0.0575565042,7.61707835 -0.0575565042,7.2623211 0.172669513,7.04360989 L3.3764153,3.99994246 L0.172762691,0.956381253 C-0.0574633254,0.737563821 -0.0574633254,0.38284198 0.172762691,0.164113074 C0.402988708,-0.0547043579 0.776393168,-0.0547043579 1.00671236,0.164113074 L4.62739571,3.6039323 C4.74250872,3.71334987 4.8,3.8566019 4.8,3.99992475 C4.8,4.14331842 4.74239691,4.28667668 4.62730253,4.39604114 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

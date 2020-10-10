@@ -1,0 +1,455 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+:root {
+  --header-color: #3457dc;
+  --background-color: #f7f9fd;
+  --button-color: #007bff;
+  --carousel-color: #869ffd;
+  --icon-color: #9aabee;
+  --input-color: #2d4dc8;
+  --hover-bg: #fff;
+  --text-color: #5d698d;
+  --template-background: #ebebeb;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+i {
+  cursor: pointer;
+}
+
+body {
+  position: relative;
+  font-family: 'Poppins', sans-serif;
+  background: var(--background-color);
+}
+
+.header {
+  background: var(--header-color);
+  padding: 20px;
+}
+
+.header a {
+  font-size: 12px;
+  color: #fff;
+}
+
+.header-1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-1 h1 {
+  font-size: 18px;
+  color: #fff;
+}
+
+.header-1 ul {
+  display: flex;
+}
+
+.header-1 ul li {
+  margin: 0 10px;
+}
+
+.header-1 .icons ul li a {
+  color: var(--icon-color);
+}
+
+.header-1 .icons ul li a:hover {
+  color: #fff;
+}
+
+.header-2 ul {
+  display: flex;
+  padding-top: 20px;
+}
+
+.header-2 ul li {
+  margin: 0 5px;
+}
+
+.header-2 ul li a i {
+  margin-left: 5px;
+}
+
+.header-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+
+.header-bottom > div:first-child a {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.header-bottom > div:first-child a i {
+  margin-right: 10px;
+  color: var(--icon-color);
+}
+
+.header-bottom .bottom-text {
+  display: flex;
+  align-items: center;
+}
+
+.header-bottom .bottom-text div {
+  margin-left: 10px;
+}
+
+.header-bottom .bottom-text input {
+  background: var(--input-color);
+  outline: none;
+  border: none;
+  width: 300px;
+  padding: 9px 0 10px 20px;
+  border-radius: 30px 4px 4px 30px;
+}
+
+.header-bottom .bottom-text input::placeholder {
+  color: var(--icon-color);
+}
+
+.header-bottom .bottom-text label {
+  font-size: 12px;
+  font-weight: 600;
+  background: var(--input-color);
+  color: #fff;
+  padding: 8px;
+  margin-left: -1px;
+  text-transform: uppercase;
+  transition: background 0.4s;
+  border-radius: 0 4px 4px 0;
+}
+
+.header-bottom .bottom-text label:hover {
+  cursor: pointer;
+  background: var(--hover-bg);
+  color: var(--input-color);
+}
+
+.header-bottom .bottom-text .btn {
+  background: transparent;
+  color: var(--hover-bg);
+  padding: 8px 30px;
+  outline: none;
+  border: 2px solid var(--input-color);
+  border-radius: 4px;
+  transition: background 0.4s;
+}
+
+.header-bottom .bottom-text .btn:hover {
+  cursor: pointer;
+  background: var(--hover-bg);
+  color: var(--input-color);
+  border: 2px solid var(--hover-bg);
+}
+
+.header-bottom .bottom-text .dots i {
+  color: var(--icon-color);
+}
+
+/* Top templates */
+.templates-top {
+  border-bottom: 2px dotted var(--icon-color);
+  padding-bottom: 20px;
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+}
+
+.templates-top h3 {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--text-color);
+  padding: 10px 20px;
+  text-transform: uppercase;
+}
+
+.templates-top h4 {
+  font-size: 12px;
+  color: var(--text-color);
+}
+
+.temp-top-inner {
+  position: relative;
+  display: flex;
+}
+
+.temp-top-inner div {
+  padding: 30px;
+  background: var(--template-background);
+  margin-right: 30px;
+  margin-left: 20px;
+}
+
+.temp-top-inner .icon {
+  position: absolute;
+  background: var(--carousel-color);
+  padding: 10px;
+  margin-top: 15px;
+  color: #fff;
+}
+
+.temp-top-inner .left-icon {
+  margin-left: 0;
+  border-radius: 0 6px 6px 0;
+}
+
+.temp-top-inner .right-icon {
+  right: 0;
+  border-radius: 6px 0 0 6px;
+}
+
+/* Main tooltip */
+.main-tooltip {
+  position: absolute;
+  width: 350px;
+  margin: 250px 450px 0;
+}
+
+.main-tooltip h3 {
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: var(--text-color);
+}
+
+.main-tool-inner {
+  background: #fff;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+.main-tool-inner .times {
+  font-size: 24px;
+  color: var(--text-color);
+  position: absolute;
+  right: 2%;
+  top: 10%;
+}
+
+.main-tool-inner .times:hover {
+  cursor: pointer;
+}
+
+.main-tool-inner h2 {
+  font-size: 20px;
+}
+
+.main-tool-inner p {
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.main-tool-inner .btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-tool-inner .btns .btn-tools {
+  background: transparent;
+  color: var(--text-color);
+  outline: none;
+  border: none;
+  padding: 7px 10px;
+  border-radius: 4px;
+}
+
+.main-tool-inner .btns .btn-tools:hover {
+  cursor: pointer;
+}
+
+.main-tool-inner .btns .btn-action {
+  background: var(--button-color);
+  color: #fff;
+}
+
+/* Right sidebar */
+.sidebar-right {
+  position: absolute;
+  right: 0;
+  width: 450px;
+  background: var(--background-color);
+  border-left: 2px dotted var(--icon-color);
+  padding: 10px 0 50px 0;
+  z-index: 99;
+}
+
+.sidebar-right h3 {
+  font-weight: 400;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.sidebar-right h2 {
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--text-color);
+  letter-spacing: 1px;
+}
+
+.sidebar-right .tooltip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px 20px 15px;
+}
+
+.sidebar-right .tooltip i {
+  color: var(--text-color);
+  border: 1px solid var(--text-color);
+  padding: 6px;
+  border-radius: 6px;
+}
+
+.sidebar-right .themes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px 20px 15px;
+}
+
+.sidebar-right .themes a {
+  font-size: 13px;
+  color: var(--text-color);
+  border: 1px solid var(--text-color);
+  padding: 3px 5px;
+  border-radius: 6px;
+}
+
+.sidebar-right select {
+  font-family: inherit;
+  font-size: 16px;
+  background: transparent;
+  width: 412px;
+  margin: 0 20px 20px 15px;
+  padding: 10px;
+  border: 1px solid var(--text-color);
+  border-radius: 6px;
+}
+
+.sidebar-right .target {
+  margin-bottom: 30px;
+  padding: 10px 20px 20px 15px;
+}
+
+.sidebar-right .target p {
+  font-size: 13px;
+  color: var(--text-color);
+  width: 350px;
+  margin-bottom: 10px;
+}
+
+.sidebar-right .target label {
+  font-weight: 600;
+  color: var(--text-color);
+  padding-right: 10px;
+}
+
+.sidebar-right .target input {
+  font-family: inherit;
+  padding: 10px;
+  border: 1px solid var(--text-color);
+  border-radius: 6px;
+  width: 380px;
+}
+
+.sidebar-right .target input::placeholder {
+  font-family: inherit;
+  font-size: 16px;
+}
+
+.sidebar-right .config {
+  border-bottom: 1px solid var(--text-color);
+}
+
+.sidebar-right .config ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebar-right .config ul li {
+  padding: 10px 20px;
+  border: 1px solid var(--text-color);
+  border-bottom: none;
+}
+
+.sidebar-right .config ul > li:first-child {
+  background: var(--carousel-color);
+  border: 1px solid var(--carousel-color);
+}
+
+.sidebar-right .config ul > li:nth-child(2) {
+  border: 1px solid var(--text-color);
+  border-right: none;
+  border-bottom: none;
+}
+
+.sidebar-right .config ul li a {
+  color: var(--text-color);
+  font-size: 14px;
+}
+
+.sidebar-right .config ul li.active a {
+  color: #fff;
+}
+
+.sidebar-right .templates {
+  padding: 10px 20px 20px 15px;
+}
+
+.sidebar-right .templates h3 {
+  margin: 10px 0;
+}
+
+.sidebar-right .templates .temp-inner {
+  display: flex;
+  align-items: center;
+}
+
+.sidebar-right .templates .temp-inner div {
+  background: var(--template-background);
+  padding: 50px;
+  margin-right: 5px;
+  border-radius: 6px;
+  border: 2px solid var(--carousel-color);
+}
+
+.sidebar-right .templates .temp-inner > div:first-child {
+  padding-right: 68px;
+}
+
+.sidebar-right .design {
+  padding: 10px 20px 20px 15px;
+}
+
+.sidebar-right .design .design-inner {
+  display: flex;
+  align-items: center;
+}
+
+.sidebar-right .design .design-inner div {
+  background: var(--template-background);
+  padding: 50px 45px;
+  margin-right: 5px;
+  border-radius: 6px;
+  border: 2px solid var(--carousel-color);
+}
