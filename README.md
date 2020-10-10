@@ -23,3 +23,5 @@ Check back again for regular updates because I will try to do a component a day 
 ### Links to the UI Components
 
 1. Modal [https://uidesigndaily.com/posts/sketch-subscribe-modal-pop-up-newsletter-day-1193]
+2. Submit a tool form [https://uidesigndaily.com/posts/sketch-submit-form-day-1189]
+3. Boardme [https://boardme.io]
