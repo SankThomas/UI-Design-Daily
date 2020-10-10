@@ -12,6 +12,11 @@
   --template-background: #ebebeb;
 }
 
+::selection {
+  background: var(--input-color);
+  color: #fff;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
