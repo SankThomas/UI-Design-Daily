@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+p {
+  line-height: 1.8;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #4f1559;
+  color: #262435;
+  overflow: auto;
+}
+
+.container {
+  background: #fff;
+  display: flex;
+  min-height: 50vh;
+  max-width: 900px;
+  margin: 20vh auto;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+.container .questions {
+  position: relative;
+}
+
+.container .head h1 {
+  margin: 20px 30px 0 0;
+  width: 300px;
+}
+
+.container .questions div {
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 4px;
+  transition: box-shadow 0.4s;
+  width: 480px;
+}
+
+.container .questions div:hover {
+  cursor: pointer;
+  box-shadow: 0 5px 10px rgba(79, 21, 89, 0.3);
+}
+
+.container .questions div h3 {
+  font-size: 16px;
+}
+
+.container .questions div p {
+  display: none;
+  margin-top: 10px;
+}
+
+.container .questions .plus {
+  padding: 15px 10px;
+  background: #ccc;
+  position: absolute;
+  margin-top: -20px;
+  right: 0;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+.container .questions .plus > li:first-child {
+  width: 15px;
+  height: 1px;
+  background: #dd1f5e;
+}
+
+.container .questions .plus > li:last-child {
+  width: 15px;
+  height: 1px;
+  background: #dd1f5e;
+  transform: rotate(90deg);
+}
+
+.container .questions ul > li:last-child .plus-1 {
+  opacity: 0;
+}
+
+@media (max-width: 900px) {
+  .container {
+    max-width: 700px;
+    padding: 20px;
+  }
+
+  .container .head h1 {
+    font-size: 24px;
+    margin-right: 0;
+  }
+
+  .container .questions div {
+    width: 360px;
+  }
+
+  .container .questions div h3 {
+    width: 300px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+    padding: 50px 20px 100px;
+  }
+
+  .container .questions div {
+    margin: 10px 0;
+  }
+
+  .container .head h1 {
+    font-size: 28px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 400px) {
+  .container {
+    max-width: 320px;
+  }
+
+  .container .questions div {
+    width: 300px;
+  }
+
+  .container .questions div h3 {
+    width: 200px;
+  }
+
+  .container .questions .question-1 .plus {
+    margin-top: -30px;
+  }
+
+  .container .questions .question-2 .plus {
+    margin-top: -30px;
+  }
+
+  .container .questions .question-3 .plus {
+    margin-top: -25px;
+  }
+
+  .container .questions .question-4 .plus {
+    margin-top: -35px;
+  }
+
+  .container .questions .question-5 .plus {
+    margin-top: -40px;
+  }
+
+  .container .questions .question-6 .plus {
+    margin-top: -40px;
+  }
+}
