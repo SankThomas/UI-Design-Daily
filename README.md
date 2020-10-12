@@ -16,6 +16,8 @@ The UI components can be found on uidesigndaily.com. They provide weekly UI comp
 
 The UIs are just to provide 'inspiration' so to say. Most things like colors will come from the UI itself, but I will also be adding other things like animations and images, links, svgs, which I don't currently have access to. And of course, JavaScript.
 
+You can get the images of the components from within the individual repository folders, or by clicking the links at the end of this README.
+
 ### Updates
 
 Check back again for regular updates because I will try to do a component a day for a month or two. The first one I've done today, 9th October 2020, and it is called 'Modal'. I've added this in for accountability.
