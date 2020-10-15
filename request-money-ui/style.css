@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+:root {
+  --bg-color: #f6f6f8;
+  --heading-color: #595864;
+  --text-color: #292937;
+  --box-shadow: #dee2ed;
+  --button-color: #202842;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.btn {
+  font-family: inherit;
+  background: var(--button-color);
+  color: #fff;
+  border: 2px solid var(--button-color);
+  outline: none;
+  padding: 15px;
+  width: 150px;
+  transition: background 0.4s;
+  box-shadow: 0 10px 10px var(--box-shadow);
+}
+
+.btn:hover {
+  cursor: pointer;
+  background: transparent;
+  border: 2px solid var(--button-color);
+  color: var(--text-color);
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: var(--bg-color);
+}
+
+h1 {
+  color: var(--button-color);
+  font-size: 24px;
+}
+
+p {
+  color: var(--text-color);
+  line-height: 1.5;
+}
+
+p.desc {
+  font-size: 14px;
+  width: 350px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.container {
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 500px;
+  max-width: 900px;
+  margin: 10vh auto;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 100px;
+  margin: 50px 0;
+}
+
+.cards ul {
+  position: relative;
+}
+
+.cards ul li {
+  position: absolute;
+  left: -35px;
+  color: var(--button-color);
+  border: 1px solid var(--button-color);
+  padding: 0 8px;
+  border-radius: 50%;
+}
+
+.cards ul li.first {
+  padding: 0 10px;
+}
+
+.cards p {
+  font-size: 12px;
+  width: 180px;
+}
+
+.cards i {
+  color: #2f364e;
+  margin: 20px 0 20px 10px;
+}
+
+@media (max-width: 900px) {
+  .container {
+    max-width: 850px;
+  }
+
+  .cards {
+    gap: 60px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    max-width: 730px;
+    padding: 50px 0;
+  }
+
+  .cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 40px;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    max-width: 500px;
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 400px) {
+  .container {
+    max-width: 300px;
+  }
+
+  p.desc {
+    font-size: 13px;
+    width: 280px;
+    padding: 0 10px;
+  }
+}
+
+@media (max-width: 320px) {
+  .container {
+    max-width: 280px;
+  }
+}

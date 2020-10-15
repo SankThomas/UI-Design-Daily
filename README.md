@@ -30,3 +30,5 @@ Check back again for regular updates because I will try to do a component a day 
 4. Web Development Courses [https://uidesigndaily.com/posts/sketch-landing-page-website-day-1178]
 5. Accordion Menu [https://uidesigndaily.com/posts/sketch-accordion-website-day-1175]
 6. Footer UI Design [https://uidesigndaily.com/posts/sketch-footer-ui-design-newsletter-links-day-1195]
+7. UI Components Table Profile [https://uidesigndaily.com/posts/sketch-ui-components-table-profile-card-day-1202]
+8. Request Money UI [https://uidesigndaily.com/posts/sketch-request-money-ui-design-stepper-website-card-payment-day-1196]
