@@ -59,6 +59,10 @@ body {
   background-color: var(--primary-color);
 }
 
+.cards .card h1 {
+  padding: 5px 0 40px;
+}
+
 .cards .card-1 h1 {
   color: var(--primary-color);
 }
