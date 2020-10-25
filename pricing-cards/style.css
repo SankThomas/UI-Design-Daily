@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+:root {
+  --primary-color: #202842;
+  --secondary-color: #fff;
+  --text-color: #646a7b;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f4f2fd;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.cards .card {
+  position: relative;
+  padding: 60px 60px 100px;
+  min-height: 50vh;
+  border-radius: 10px;
+  max-width: 300px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.cards .card-1 {
+  background-color: var(--secondary-color);
+}
+
+.cards .card-2 {
+  background-color: var(--primary-color);
+}
+
+.cards .card-1 h1 {
+  color: var(--primary-color);
+}
+
+.cards .card-2 {
+  color: var(--secondary-color);
+}
+
+.cards .card h2 {
+  font-size: 16px;
+}
+
+.cards .card p {
+  font-size: 11px;
+  padding: 10px 0;
+}
+
+.cards .card ul {
+  display: flex;
+  flex-direction: column;
+}
+
+.cards .card ul li {
+  margin: 10px 0;
+  font-size: 12px;
+}
+
+.cards .card ul li .fas {
+  border-radius: 50%;
+  padding: 1px;
+  margin-right: 10px;
+}
+
+.cards .card-1 ul li .fas {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}
+
+.cards .card-2 ul li .fas {
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+}
+
+.cards .card .btn {
+  position: absolute;
+  bottom: 8%;
+  width: 180px;
+  padding: 10px;
+  outline: none;
+  border-radius: 30px;
+  font-family: inherit;
+  font-size: 12px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.4s;
+}
+
+.cards .card .btn:hover {
+  cursor: pointer;
+}
+
+.cards .card .btn-1 {
+  background-color: var(--primary-color);
+  color: #fff;
+  border: 2px solid var(--primary-color);
+}
+
+.cards .card .btn-1:hover {
+  background-color: transparent;
+  color: var(--primary-color);
+}
+
+.cards .card .btn-2 {
+  border: 2px solid var(--secondary-color);
+}
+
+.cards .card .btn-2:hover {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}
+
+@media (max-width: 600px) {
+  .cards {
+    grid-template-columns: 1fr;
+    gap: 60px;
+    margin: 70px 0;
+  }
+}

@@ -32,3 +32,6 @@ Check back again for regular updates because I will try to do a component a day 
 6. Footer UI Design [https://uidesigndaily.com/posts/sketch-footer-ui-design-newsletter-links-day-1195]
 7. UI Components Table Profile [https://uidesigndaily.com/posts/sketch-ui-components-table-profile-card-day-1202]
 8. Request Money UI [https://uidesigndaily.com/posts/sketch-request-money-ui-design-stepper-website-card-payment-day-1196]
+9. Create your account Sign Up Form [https://uidesigndaily.com/posts/sketch-sign-up-ui-design-form-day-1206]
+10. Pricing cards [https://uidesigndaily.com/posts/sketch-pricing-cards-ui-design-card-day-1207]
+11. Features page [https://uidesigndaily.com/posts/sketch-features-page-components-list-menu-tab-day-1204]
