@@ -136,6 +136,8 @@ body {
 
 .cards .card .btn-2 {
   border: 2px solid var(--secondary-color);
+  background-color: #fff;
+  color: var(--primary-color);
 }
 
 .cards .card .btn-2:hover {
