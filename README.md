@@ -20,7 +20,7 @@ You can get the images of the components from within the individual repository f
 
 ### Updates
 
-Check back again for regular updates because I will try to do a component a day for a month or two. The first one I've done today, 9th October 2020, and it is called 'Modal'. I've added this in for accountability.
+Check back again for regular updates because I will try to do a component a day. The first one I've done today, 9th October 2020, and it is called 'Modal'.
 
 ### Links to the UI Components
 
@@ -35,3 +35,5 @@ Check back again for regular updates because I will try to do a component a day 
 9. Create your account Sign Up Form [https://uidesigndaily.com/posts/sketch-sign-up-ui-design-form-day-1206]
 10. Pricing cards [https://uidesigndaily.com/posts/sketch-pricing-cards-ui-design-card-day-1207]
 11. Features page [https://uidesigndaily.com/posts/sketch-features-page-components-list-menu-tab-day-1204]
+12. Cards List UI Design[https://uidesigndaily.com/posts/sketch-cards-list-ui-design-website-day-1218]
+13. Square Landing Page [https://uidesigndaily.com/posts/sketch-landing-page-website-day-1217]
