@@ -64,9 +64,9 @@ main .form input::placeholder {
 }
 
 .cards .cards-inner div p {
-  margin-top: 10px;
-  font-size: 14px;
+  margin-top: 20px;
   line-height: 1.6;
+  font-size: 14px;
 }
 
 @media (min-width: 600px) {
