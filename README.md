@@ -37,3 +37,13 @@ Check back again for regular updates because I will try to do a component a day.
 11. Features page [https://uidesigndaily.com/posts/sketch-features-page-components-list-menu-tab-day-1204]
 12. Cards List UI Design[https://uidesigndaily.com/posts/sketch-cards-list-ui-design-website-day-1218]
 13. Square Landing Page [https://uidesigndaily.com/posts/sketch-landing-page-website-day-1217]
+14. Conferences UI [https://uidesigndaily.com/posts/sketch-conferences-page-list-listing-links-tags-website-day-1124]
+15. Marketing Stats [https://uidesigndaily.com/posts/sketch-stats-card-statistics-cards-day-1123]
+16. Articles Page [https://uidesigndaily.com/posts/sketch-articles-page-article-blog-post-cards-day-1122]
+17. Statistics [https://uidesigndaily.com/posts/sketch-statistics-stats-cards-analytics-list-day-1121]
+18. Help Center [https://uidesigndaily.com/posts/sketch-help-center-links-search-day-1120]
+19. Stats Card [https://uidesigndaily.com/posts/sketch-stats-card-statistics-cards-day-1119]
+20. Pricing Page [https://uidesigndaily.com/posts/sketch-pricing-page-table-subscription-card-cards-day-1116]
+21. Color Palette Generator [https://uidesigndaily.com/posts/sketch-color-palette-generator-picker--day-1114]
+
+<!-- To stats-card and marketing-stats tomorrow morning -->
