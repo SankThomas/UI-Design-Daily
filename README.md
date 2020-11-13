@@ -7,6 +7,7 @@ Featuring UI Design Daily's UI components translated into code
 The main website I'll be using is https://uidcomponents.netlify.app
 
 The homepage is a bit trash, but as components begin to fill the space, I will get the structure and adjust it's look and feel.
+UPDATE: Finally revamped the landing page, containing the component thumbnails I've done so far, and it looks amazing.
 
 ## Main repository and where to find the UI Components
 
