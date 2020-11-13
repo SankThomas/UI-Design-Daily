@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Poppins:wght@300&display=swap');
+
+/* Globals */
+:root {
+  --primary-color: #2e2e2e;
+  --secondary-color: #f4f4f4;
+  --border-color: #f1f3f6;
+  --text-color: #949494;
+  --danger-color: #f10707;
+  --background-transition: background-color 0.4s;
+  --box-shadow: 0 10px 20px rgba(241, 241, 241, 0.8);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-transform: capitalize;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+.active {
+  color: var(--primary-color);
+}
+
+.dark {
+  background-color: var(--primary-color);
+  color: #fff;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.danger {
+  color: var(--danger-color);
+  font-size: 12px;
+}
+
+.capital {
+  text-transform: uppercase;
+}
+
+.tags {
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+  width: 150px;
+  font-family: 'Montserrat', sans-serif;
+  border: 2px solid var(--primary-color);
+  transition: var(--background-transition);
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.btn-light {
+  background-color: transparent;
+  color: var(--text-color);
+  font-weight: 500;
+  padding-right: 20px;
+  width: auto;
+  border: none;
+}
+
+.btn-dark:hover {
+  background-color: transparent;
+  color: var(--primary-color);
+}
+
+small {
+  color: var(--primary-color);
+}
+/* End of globals */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: var(--primary-color);
+  padding: 0 20px;
+}
+
+/* Header */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.header .navbar ul {
+  display: flex;
+  align-items: center;
+}
+
+.header .navbar ul li {
+  padding: 20px;
+}
+
+.header .navbar ul li a {
+  transition: color 0.2s;
+}
+
+.header .navbar ul li a:hover {
+  color: var(--primary-color);
+}
+
+.header .login ul {
+  display: flex;
+  align-items: center;
+}
+/* End of header */
+
+/* Title */
+.title {
+  max-width: 1200px;
+  margin: 0 auto 20px;
+  display: flex;
+  align-items: center;
+}
+
+.title .title-tag {
+  font-size: 12px;
+  background-color: var(--secondary-color);
+  padding: 5px;
+  border-radius: 30px;
+  margin: 0 10px;
+}
+/* End of title */
+
+/* Section-1 */
+.section-1 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.section-1 .articles .days-list ul {
+  display: flex;
+  margin: 20px 0;
+}
+
+.section-1 .articles .days-list ul li {
+  margin: 0 10px;
+}
+
+.section-1 .articles .days-list ul li a {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.section-1 .articles .articles-inner div {
+  padding: 20px 0;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.section-1 .articles .articles-inner small {
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.section-1 .articles .articles-inner .fa-circle {
+  font-size: 5px;
+  margin: 0 5px;
+}
+
+.section-1 .articles .articles-inner h3 {
+  font-size: 17px;
+  margin-top: 10px;
+}
+
+.section-1 .discover {
+  border: 2px solid var(--border-color);
+  border-radius: 7px;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+.section-1 .discover div {
+  margin: 20px 0;
+  width: 300px;
+  padding: 10px;
+}
+
+.section-1 .discover i {
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+.section-1 .discover p {
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 10px;
+}
+/* End of section-1 */
+
+@media (max-width: 768px) {
+  .header,
+  .title {
+    display: none;
+  }
+
+  .section-1 .articles h1 {
+    padding-top: 50px;
+  }
+
+  .section-1 .discover {
+    margin-bottom: 100px;
+  }
+
+  .section-1 .discover div {
+    width: auto;
+  }
+}
