@@ -46,3 +46,4 @@ Check back again for regular updates because I will try to do a component a day.
 19. Stats Card [https://uidesigndaily.com/posts/sketch-stats-card-statistics-cards-day-1119]
 20. Pricing Page [https://uidesigndaily.com/posts/sketch-pricing-page-table-subscription-card-cards-day-1116]
 21. Color Palette Generator [https://uidesigndaily.com/posts/sketch-color-palette-generator-picker--day-1114]
+22. Website Section [https://uidesigndaily.com/posts/sketch-website-section-day-1230]
